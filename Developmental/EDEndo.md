@@ -1,5 +1,5 @@
 name: Embryonic Definitive Endoderm
-abbreviation: Rgl
+abbreviation: EDEndo
 definition: +Foxa2 +Sox17 +Cldn6
 go:
 shogoin: 
