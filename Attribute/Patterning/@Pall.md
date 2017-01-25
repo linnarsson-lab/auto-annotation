@@ -1,5 +1,5 @@
 name: Pallium
-abbreviation: @Pal
+abbreviation: @Pall
 definition: +Pax6 +Emx1 -Gsx2 -Six6
 go:
 shogoin: 

@@ -7,7 +7,7 @@ uberon:
 synonyms:
 ---
 
-Patterning genes of the Pallium
+Patterning genes of the Prethalamus and Posterior Pallium
 
 Justification:
 
