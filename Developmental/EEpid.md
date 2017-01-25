@@ -1,6 +1,6 @@
 name: Epidermal Ectoderm
 abbreviation: EEpid
-definition: +Aldh1a3 +Pdgfa +Pdgfc +Epcam +Krt18 Cldn6+
+definition: +Aldh1a3 +Pdgfa +Pdgfc +Epcam +Krt18 +Cldn6
 go:
 shogoin: 
 uberon:
