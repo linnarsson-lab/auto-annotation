@@ -12,7 +12,9 @@ Ventricular zone cells late in development of the in the hindbrain
 Justification:
 
 Fgl2 [http://developingmouse.brain-map.org/experiment/show/100039251]
+
 Ntn1 [http://developingmouse.brain-map.org/experiment/show/100084124]
+
 Pdyn [http://developingmouse.brain-map.org/experiment/show/100084121]
 
 See also:
