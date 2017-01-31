@@ -1,6 +1,6 @@
 name: Hindbrain Radialglia3-like cell
 abbreviation: HRgl3
-definition: 
+definition: +Fgl2 +Ntn1 +Pdyn
 go:
 shogoin: 
 uberon: (outer molecular layer)
