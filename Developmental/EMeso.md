@@ -1,5 +1,5 @@
-name: Mesodermal cells 
-abbreviation: Meso
+name: Early Mesodermal cells 
+abbreviation: EMeso
 definition: +T
 go:
 shogoin: 
@@ -18,3 +18,5 @@ I expect at least two cell types (anterior/node, posterior/streak). Requires mor
 
 [10.1242/dev.050567]
 Noto (and probably Chrd) are in more anterior part corresponding to the anterior streak/node.
+
+Nodal is another (non exclusive) marker
