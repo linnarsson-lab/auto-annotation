@@ -17,3 +17,5 @@ Justification:
 * Cluster is the most numerous cell type in dentate gyrus
 
 [1] doi:10.1016/B978-0-12-397265-1.00079-4 
+
+This definition is valid on very many clusters form development
