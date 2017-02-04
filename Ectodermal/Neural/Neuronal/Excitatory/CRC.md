@@ -20,7 +20,7 @@ I modified this entry so that it generalizes to the 10X dataset.
 According to this paper:
 
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0019955
-"Reelin, the protein encoded by the RELN gene, is an extracellular matrix-associated glycoprotein expressed in the developing brain by CajalÐRetzius cells in the marginal zone of the cortex and hippocampus and by the cerebellar granule cells in the in the external granule cell layer. In the adult brain reelin is most abundant in GABAergic neurons"
+"Reelin, the protein encoded by the RELN gene, is an extracellular matrix-associated glycoprotein expressed in the developing brain by CajalRetzius cells in the marginal zone of the cortex and hippocampus and by the cerebellar granule cells in the in the external granule cell layer. In the adult brain reelin is most abundant in GABAergic neurons"
 
 according to this other paper:
 

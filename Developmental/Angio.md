@@ -1,6 +1,6 @@
 name: Angioblast
 abbreviation: Angio
-definition: +Plvap +Prl3b1 +Clec1b -Slc38a5 -Ly6A -Nostrin 
+definition: +Plvap +Prl3b1 +Clec1b -Slc38a5 -Ly6a -Nostrin 
 go:
 shogoin: 
 uberon: 
