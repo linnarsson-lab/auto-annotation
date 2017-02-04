@@ -17,7 +17,7 @@ Mpz - [http://www.genecards.org/cgi-bin/carddisp.pl?gene=MPZ] This gene is speci
 
 Prss56 - They do lineage tracing in [10.1016/j.stemcr.2015.06.005]. "These cells form the so-called boundary caps (BCs), which are transiently observed at the nerve root entry/exit points along the neural tube (Niederlander and Lumsden, 1996). Fate analyses, taking advantage of BC-specific expression of the Krox20 (also known as Egr2) transcription factor gene and available knockins at this locus (Vermeren et al., 2003; Voiculescu et al., 2000), have established that BC cells give rise to the Schwann cell component of the nerve roots and, in the dorsal root ganglia (DRGs), to nociceptive neurons as well as glial satellite cells (Maro et al., 2004)""
 
-Dhh - [http://dx.doi.org/10.1016/S0896-6273(01)80030-1] Title: Schwann Cell–Derived Desert Hedgehog Controls the Development of Peripheral Nerve Sheaths 
+Dhh - [http://dx.doi.org/10.1016/S0896-6273(01)80030-1] Title: Schwann Cell-Derived Desert Hedgehog Controls the Development of Peripheral Nerve Sheaths 
 
 S100a3 - [http://www.agilent.com/en/products/immunohistochemistry/antibodies-controls/primary-antibodies/s100] agilent claims that their antibody stains Schwann cells
 

@@ -25,7 +25,7 @@ http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0019955
 according to this other paper:
 
 http://www.sciencedirect.com/science/article/pii/S0925477398001415
-Anti-EMX2 immunoreactivity is also detectable in CajalÐRetzius cells as well as in apical dendrites of marginal neurons of the cortical plate.
+Anti-EMX2 immunoreactivity is also detectable in CajalRetzius cells as well as in apical dendrites of marginal neurons of the cortical plate.
 
 
 It is courious that Trp73 ("P73") an homolog of P53 is a marker for those cells.
