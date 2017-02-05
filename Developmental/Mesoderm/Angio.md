@@ -1,6 +1,6 @@
 name: Angioblast
 abbreviation: Angio
-definition: +Plvap +Kcne3 +Slc38a5 +Ly6a
+definition: +Plvap +Kcne3 -Slc38a5 -Ly6a
 go:
 shogoin: 
 uberon: 
