@@ -1,6 +1,6 @@
 name: Cardiac Crescent cells
 abbreviation: CrCr
-definition: +Hand1 +Wnt2 +Hand2 -Wnt6 -Tacstd2
+definition: +Hand1 +Wnt2 +Hand2 +Tdo2 -Tacstd2
 go:
 shogoin: 
 uberon: 
