@@ -1,6 +1,6 @@
 name: Perivascular macrophage
 abbreviation: B-PVM
-definition: +Pf4
+definition: +Pf4 +Fcna +Cd163 -Hexb
 go:
 shogoin: 
 uberon:
@@ -16,3 +16,5 @@ Justification:
 * Expresses a known set of marker identified in [1]
 
 [1] Zeisel et al. Science 2015 
+
+I updated Sten's definition (only Pf4) with +Fcna +Cd163 and -Hexb
