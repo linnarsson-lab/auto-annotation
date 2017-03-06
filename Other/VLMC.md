@@ -1,6 +1,6 @@
 name: Vascular and leptomeningeal cell
 abbreviation: VLMC
-definition: +Slc6a13 +Islr +Lum +Dcn
+definition: +Slc6a13 +Islr +Slc22a6
 go:
 shogoin: 
 uberon:
@@ -19,5 +19,6 @@ Justification:
 In the development a set a more decisive markers would be:
 +Slc22a6 +Slc6a13 +Islr +Ptgds
 
-Igf2 hardly is correct for a definition since it is expressed by other clusters. Col1a1 is also in other cell types
+Update: Igf2 hardly is correct for a definition since it is expressed by other clusters. Col1a1 is also in other cell types
 I removed them and added instead Slc6a13, Islr and Lum
+Update: I removed Lum and Dcn in favour of Slc22a6, it is higly expressed and very specific
