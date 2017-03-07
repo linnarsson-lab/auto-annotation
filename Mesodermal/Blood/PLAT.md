@@ -1,5 +1,5 @@
 name: Platellet related cell
-abbreviation: B-PLAT
+abbreviation: PLAT
 definition: +Ppbp +Gp9 +Gp5 +Gp1bb
 go:
 shogoin: 

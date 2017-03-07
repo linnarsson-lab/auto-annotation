@@ -1,5 +1,5 @@
 name: Perivascular macrophage
-abbreviation: B-PVM
+abbreviation: PVM
 definition: +Pf4 +Fcna +Cd163 -Hexb
 go:
 shogoin: 

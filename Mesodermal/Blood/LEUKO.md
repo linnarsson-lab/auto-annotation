@@ -1,5 +1,5 @@
 name: Leukocytes (Mainly Granule)
-abbreviation: B-LEUKO
+abbreviation: LEUKO
 definition: +Cd163 +Cxcl2 +Fcna +Fcgr2b
 go:
 shogoin: 

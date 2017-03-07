@@ -1,5 +1,5 @@
 name: Erythrocyte
-abbreviation: B-ERY
+abbreviation: ERY
 definition: +Hba-a2 +Alas2
 go:
 shogoin: 014m
