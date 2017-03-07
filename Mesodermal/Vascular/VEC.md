@@ -1,6 +1,6 @@
 name: Vascular endothelial cell
 abbreviation: VEC
-definition: +Cldn5 +Flt1 +Ly6a +Slc38a5
+definition: +Cldn5 +Flt1 +Ly6c1 +Slc38a5
 go:
 shogoin: 
 uberon:

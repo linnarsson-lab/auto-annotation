@@ -1,6 +1,6 @@
 name: Fenestrated Capillary cell
 abbreviation: VEC-FC
-definition: +Cldn5 +Flt1 +Plvap +Hapln1 -Slc38a5
+definition: +Cldn5 +Flt1 +Plvap +Hapln1
 go:
 shogoin: 
 uberon:
