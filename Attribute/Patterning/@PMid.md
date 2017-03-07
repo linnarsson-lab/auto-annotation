@@ -1,4 +1,4 @@
-name: Posterior dordal Midbrain
+name: Posterior dorsal Midbrain
 abbreviation: @PMid
 definition: +Tfap2d +Pou4f3
 go:

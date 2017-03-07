@@ -3,7 +3,7 @@ abbreviation: NblastM
 definition: +Neurod1 +Igfbpl1 +Stmn2 -Gfap
 go:
 shogoin: 
-uberon: (outer molecular layer)
+uberon:
 synonyms:
 ---
 
