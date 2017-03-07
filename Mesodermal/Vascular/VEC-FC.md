@@ -24,3 +24,5 @@ Justification:
 
 Other markers:
 Clec1b Tmem255a Lat
+Other enriched genes:
+"Ldb2","Ackr1","Ramp3","Gm266","Plac1","Gpr183","Gchfr","Ripk3"

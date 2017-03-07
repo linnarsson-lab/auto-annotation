@@ -1,6 +1,6 @@
 name: Blood Mononuclear system cell
 abbreviation: @BMono
-definition: +Fcerg1g +C1qb
+definition: +Fcer1g +C1qb
 go:
 shogoin: 
 uberon: 
