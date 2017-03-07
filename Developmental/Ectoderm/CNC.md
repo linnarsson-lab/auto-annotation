@@ -14,7 +14,7 @@ Justification:
 Other relevant expressed genes:
 Phactr1, Tfap2a, Tfap2b, Ccl6, Dlx1, Plcg2, Tnfaip6, Twist1
 
-[doi: 10.1089/scd.2012.0155] Whole-genome expression profiling of O9-1 cells revealed that this line stably expresses stem cell markers (CD44, Sca-1, and Bmi1) and neural crest markers (AP-2α, Twist1, Sox9, Myc, Ets1, Dlx1, Dlx2, Crabp1, Epha2, and Itgb1).
+[doi: 10.1089/scd.2012.0155] Whole-genome expression profiling of O9-1 cells revealed that this line stably expresses stem cell markers (CD44, Sca-1, and Bmi1) and neural crest markers (AP-2alpha, Twist1, Sox9, Myc, Ets1, Dlx1, Dlx2, Crabp1, Epha2, and Itgb1).
 
 [doi: 10.1242/jcs.112078] Phactr1 is highly expressed in cells and tissues of neuronal origin (Allen et al., 2004), and its expression is associated with poor prognosis in melanoma, a neural crest-derived tumour
 
