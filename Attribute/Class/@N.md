@@ -1,6 +1,6 @@
 name: Neuron
 abbreviation: @N
-definition: +Stmn2 +Meg3 -Cldn5 -Aqp4 -Foxj1 -Hexb -Mrc1 -Lum -Plp1 -Cdk1 -Rgs5
+definition: +Stmn2 +Stmn3 +Meg3 -Cldn5 -Aqp4 -Foxj1 -Hexb -Mrc1 -Lum -Plp1 -Cdk1 -Rgs5
 go:
 shogoin: 
 uberon: 
