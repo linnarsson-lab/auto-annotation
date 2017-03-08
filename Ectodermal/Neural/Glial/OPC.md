@@ -1,5 +1,5 @@
 name: Oligodendrocyte precursor cell
-abbreviation: OL-OPC
+abbreviation: OPC
 definition: +Pdgfra +Cspg4 -Lum
 go:
 shogoin: 

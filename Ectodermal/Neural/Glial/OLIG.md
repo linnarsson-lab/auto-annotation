@@ -1,11 +1,11 @@
 name: Oligodendrocyte
-abbreviation: OL-OL
+abbreviation: OLIG
 definition: +Mog +Plp1 -Bmp4
 go:
 shogoin: 
 uberon:
 synonyms:
-predecessors: OL-COP
+predecessors: COP
 ---
 
 TODO

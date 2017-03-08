@@ -1,12 +1,12 @@
 name: Committed oligodendrocyte precursor cell
-abbreviation: OL-COP
+abbreviation: COP
 definition: +Bmp4 +Enpp6 +Gpr17
 go:
 shogoin: 
 uberon:
 synonyms:
-predecessors: OL-OPC
-successors: OL-NFOL
+predecessors: OPC
+successors: NFOL
 ---
 
 TODO

@@ -1,6 +1,6 @@
 name: Schwann cells
 abbreviation: SCHWA
-definition: +Mpz +Prss56 +Dhh +S100a3 -Tnc
+definition: +Mpz +Dhh +S100a3 -Tnc
 go:
 shogoin: 
 uberon: 
@@ -24,3 +24,6 @@ S100a3 - [http://www.agilent.com/en/products/immunohistochemistry/antibodies-con
 Mal - [10.1046/j.1471-4159.1999.0730587.x] about the dynamics of exmpression between oligos and schwann
 
 Be carefull with Astrocyte definition becouse they are also Aldoc and Aldh1a1 positive! Tnc is a good discriminator (at least in development)
+
+Other markers:
+Prss56
