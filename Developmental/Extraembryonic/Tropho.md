@@ -4,6 +4,7 @@ definition: +Elf5 +Tex19.1 +Nr0b1
 go:
 shogoin: 
 uberon: 
+categories: Endomesodermal
 synonyms:
 ---
 

@@ -4,6 +4,7 @@ definition: +Tfap2d +Pou4f3
 go:
 shogoin: 
 uberon: 
+categories: Ectodermal
 synonyms:
 ---
 

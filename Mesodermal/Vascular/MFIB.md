@@ -4,7 +4,7 @@ definition: +Mgp +Lypd2
 go:
 shogoin: 
 uberon:
-categories:
+categories: Endomesodermal
 synonyms:
 predecessors:
 ---

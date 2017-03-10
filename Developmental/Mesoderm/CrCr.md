@@ -4,6 +4,7 @@ definition: +Hand1 +Wnt2 +Hand2 -Wnt6 -Tacstd2
 go:
 shogoin: 
 uberon: 
+categories: Endomesodermal
 synonyms:
 ---
 

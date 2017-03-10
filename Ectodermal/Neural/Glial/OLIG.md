@@ -4,7 +4,7 @@ definition: +Mog +Plp1 -Bmp4
 go:
 shogoin: 
 uberon:
-categories:
+categories: Ectodermal
 synonyms:
 predecessors: COP
 ---

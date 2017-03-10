@@ -4,7 +4,7 @@ definition: +Cd163 +Cxcl2 +Fcna +Fcgr2b
 go:
 shogoin: 
 uberon:
-categories:
+categories: Endomesodermal
 synonyms:
 predecessors:
 ---

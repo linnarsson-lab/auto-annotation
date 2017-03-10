@@ -4,6 +4,7 @@ definition: +Foxa2 +Sox17 +Cldn6
 go:
 shogoin: 
 uberon: (outer molecular layer)
+categories: Endomesodermal
 synonyms:
 ---
 

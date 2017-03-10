@@ -4,6 +4,7 @@ definition: +Aldh1a3 +Pdgfc -Pyy
 go:
 shogoin: 
 uberon: 
+categories: Ectodermal
 synonyms:
 ---
 

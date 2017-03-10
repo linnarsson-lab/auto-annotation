@@ -4,6 +4,7 @@ definition: +Sox10
 go:
 shogoin: 
 uberon: 
+categories: Ectodermal
 synonyms:
 ---
 

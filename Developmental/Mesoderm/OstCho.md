@@ -4,6 +4,7 @@ definition: +Steap1 +Postn
 go:
 shogoin: 
 uberon: 
+categories: Endomesodermal
 synonyms:
 ---
 

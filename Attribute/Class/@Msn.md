@@ -4,6 +4,7 @@ definition: +Twist2 +Foxc1
 go:
 shogoin: 
 uberon: 
+categories: Endomesodermal
 synonyms:
 ---
 

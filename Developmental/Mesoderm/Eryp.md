@@ -4,7 +4,7 @@ definition: +Hbb-bh1 +Cited4 +Gfi1b +Klf1 -Tspo2
 go:
 shogoin: 
 uberon:
-categories:
+categories: Endomesodermal
 synonyms:
 ---
 

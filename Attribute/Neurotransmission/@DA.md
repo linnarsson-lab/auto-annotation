@@ -4,6 +4,7 @@ definition: +Th +Ddc +Slc6a3
 go: 0001963 (synaptic transmission, dopaminergic)
 shogoin: 
 uberon: 
+categories: Ectodermal
 synonyms:
 ---
 

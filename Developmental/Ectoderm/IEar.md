@@ -4,7 +4,7 @@ definition: +Hmx2 +Hmx3
 go:
 shogoin: 
 uberon:
-categories:
+categories: Ectodermal
 synonyms:
 ---
 

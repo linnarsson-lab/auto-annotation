@@ -4,6 +4,7 @@ definition: +Pyy +Apela
 go:
 shogoin: 
 uberon: 
+categories: Endomesodermal
 synonyms:
 ---
 

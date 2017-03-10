@@ -4,6 +4,7 @@ definition: +Slc17a6
 go:
 shogoin: 
 uberon: 
+categories: Ectodermal
 synonyms:
 - Glutamatergic neurotransmission
 ---

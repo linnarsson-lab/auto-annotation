@@ -4,7 +4,7 @@ definition: +Slc7a3 +Pim2 +Dnmt3b +Utf1
 go:
 shogoin: 
 uberon:
-categories:
+categories: Endomesodermal
 synonyms:
 ---
 

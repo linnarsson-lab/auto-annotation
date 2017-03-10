@@ -4,6 +4,7 @@ definition: +Gad1 +Gad2 +Slc32a1
 go: 0051932 (synaptic transmission, GABAergic)
 shogoin: 
 uberon: 
+categories: Ectodermal
 synonyms:
 - Inhibitory neurotransmission
 ---

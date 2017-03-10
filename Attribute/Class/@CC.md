@@ -4,6 +4,7 @@ definition: +Cdk1 +Top2a +Cenpf
 go:
 shogoin: 
 uberon: 
+categories:
 synonyms:
 - Proliferation
 ---

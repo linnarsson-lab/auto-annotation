@@ -4,7 +4,7 @@ definition: +T +Noto
 go:
 shogoin: 
 uberon:
-categories:
+categories: Endomesodermal
 synonyms:
 ---
 

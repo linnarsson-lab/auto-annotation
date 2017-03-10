@@ -4,6 +4,7 @@ definition: +Myh6 +Tnni3 +Tnnt2 +Actc1
 go:
 shogoin: 
 uberon: 
+categories: Endomesodermal
 synonyms:
 ---
 

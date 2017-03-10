@@ -4,7 +4,7 @@ definition: +Rgs5 -Kdr
 go:
 shogoin:
 uberon:
-categories:
+categories: Endomesodermal
 synonyms:
 predecessors:
 ---

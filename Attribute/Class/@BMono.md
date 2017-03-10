@@ -4,6 +4,7 @@ definition: +Fcer1g +C1qb
 go:
 shogoin: 
 uberon: 
+categories: Endomesodermal
 synonyms:
 ---
 

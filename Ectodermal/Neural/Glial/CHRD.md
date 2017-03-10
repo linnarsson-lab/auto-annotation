@@ -4,6 +4,7 @@ definition: +Ttr +Kcne2 +Aqp1
 go:
 shogoin: 
 uberon: 
+categories: Ectodermal
 synonyms:
 ---
 

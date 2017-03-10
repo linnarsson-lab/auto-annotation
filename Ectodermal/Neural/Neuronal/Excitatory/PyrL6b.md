@@ -4,7 +4,7 @@ definition: +Nxph3 +Cplx3
 go:
 shogoin: 
 uberon:
-categories:
+categories: Ectodermal
 synonyms:
 ---
 

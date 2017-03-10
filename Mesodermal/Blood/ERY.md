@@ -4,7 +4,7 @@ definition: +Hba-a2 +Alas2
 go:
 shogoin: 014m
 uberon:
-wikipedia: https://en.wikipedia.org/wiki/Red_blood_cell
+categories: Endomesodermal
 synonyms: Red blood cell
 ---
 

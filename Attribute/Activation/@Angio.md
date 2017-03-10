@@ -4,6 +4,7 @@ definition: +Gkn3 +Sema3g
 go:
 shogoin: 
 uberon: 
+categories: Endomesodermal
 synonyms:
 ---
 

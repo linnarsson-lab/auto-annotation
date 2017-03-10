@@ -4,6 +4,7 @@ definition: +Pax6 +Emx1 -Gsx2 -Six6
 go:
 shogoin: 
 uberon: 
+categories: Ectodermal
 synonyms:
 ---
 

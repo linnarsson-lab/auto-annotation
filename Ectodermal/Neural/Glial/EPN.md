@@ -4,6 +4,7 @@ definition: +Ccdc153 +Tmem212
 go:
 shogoin: 
 uberon: 
+categories: Ectodermal
 synonyms:
 ---
 

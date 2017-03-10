@@ -4,6 +4,7 @@ definition: +Fgl2 +Ntn1 +Pdyn
 go:
 shogoin: 
 uberon: (outer molecular layer)
+categories: Ectodermal
 synonyms:
 ---
 

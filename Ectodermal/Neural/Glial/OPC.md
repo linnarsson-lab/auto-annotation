@@ -4,7 +4,7 @@ definition: +Pdgfra +Cspg4 -Lum
 go:
 shogoin: 
 uberon:
-categories:
+categories: Ectodermal
 synonyms:
 predecessors:
 successors: OL-COP

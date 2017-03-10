@@ -4,6 +4,7 @@ definition: +Mpz +Dhh +S100a3 -Tnc
 go:
 shogoin: 
 uberon: 
+categories: Ectodermal
 synonyms:
 ---
 

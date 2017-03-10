@@ -4,6 +4,7 @@ definition: +Fos +Jun +Egr1
 go:
 shogoin: 
 uberon: 
+categories:
 synonyms:
 ---
 

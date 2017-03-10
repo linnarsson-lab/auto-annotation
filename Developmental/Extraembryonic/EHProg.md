@@ -4,6 +4,7 @@ definition: +Gata1 +Gata2
 go:
 shogoin: 
 uberon: 
+categories: Endomesodermal
 synonyms:
 ---
 

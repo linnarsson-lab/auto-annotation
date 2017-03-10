@@ -4,6 +4,7 @@ definition: +Ppbp +Gp9 +Gp5 +Gp1bb
 go:
 shogoin: 
 uberon: 
+categories: Endomesodermal
 synonyms:
 ---
 

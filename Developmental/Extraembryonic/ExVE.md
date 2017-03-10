@@ -4,6 +4,7 @@ definition: +Vil1 +Apom +Soat2
 go:
 shogoin: 
 uberon: 
+categories: Endomesodermal
 synonyms:
 ---
 

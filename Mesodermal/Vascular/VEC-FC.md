@@ -4,7 +4,7 @@ definition: +Cldn5 +Flt1 +Plvap +Hapln1
 go:
 shogoin: 
 uberon:
-categories:
+categories: Endomesodermal
 synonyms:
 predecessors:
 ---

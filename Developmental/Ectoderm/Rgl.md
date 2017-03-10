@@ -4,6 +4,7 @@ definition: +Hes1 +Vim +Sox2 -Kdr -Rgs5
 go:
 shogoin: 
 uberon: (outer molecular layer)
+categories: Ectodermal
 synonyms:
 ---
 

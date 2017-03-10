@@ -4,6 +4,7 @@ definition: +Skor1 +Lbx1 +Pax2 +Tfap2a
 go:
 shogoin: 
 uberon: 
+categories: Ectodermal
 synonyms:
 ---
 

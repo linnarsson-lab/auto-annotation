@@ -4,7 +4,7 @@ definition: +Tcf15 +Meox1
 go:
 shogoin: 
 uberon:
-categories:
+categories: Endomesodermal
 synonyms:
 ---
 

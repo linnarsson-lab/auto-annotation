@@ -4,6 +4,7 @@ definition: +Plvap +Kcne3 -Slc38a5 -Ly6a
 go:
 shogoin: 
 uberon: 
+categories: Endomesodermal
 synonyms:
 ---
 

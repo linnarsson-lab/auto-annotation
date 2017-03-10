@@ -4,7 +4,7 @@ definition: +Slc6a13 +Islr +Slc22a6
 go:
 shogoin: 
 uberon:
-categories:
+categories: Endomesodermal
 synonyms:
 predecessors:
 ---

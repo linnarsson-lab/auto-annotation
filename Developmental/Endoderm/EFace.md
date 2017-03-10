@@ -4,6 +4,7 @@ definition: +Foxi2 +Vgll2 +Espn +Epcam
 go:
 shogoin: 
 uberon: 
+categories: Endomesodermal
 synonyms:
 ---
 
