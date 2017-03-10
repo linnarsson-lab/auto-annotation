@@ -1,5 +1,5 @@
-name: Cortex Pryramidal cells layer 6b
-abbreviation: PyrL6b
+name: Claustrum Pyramidal
+abbreviation: ClauPyr
 definition: +Nr4a2 +Synpr +Slc17a7
 go:
 shogoin: 
