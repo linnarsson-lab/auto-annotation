@@ -4,6 +4,7 @@ definition: +Hesx1 +Otx2 +Six3 +Sox2
 go:
 shogoin: 
 uberon:
+categories:
 synonyms:
 ---
 

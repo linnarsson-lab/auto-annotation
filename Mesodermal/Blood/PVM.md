@@ -4,6 +4,7 @@ definition: +Pf4 +Fcna +Cd163 -Hexb
 go:
 shogoin: 
 uberon:
+categories:
 synonyms:
 predecessors:
 ---

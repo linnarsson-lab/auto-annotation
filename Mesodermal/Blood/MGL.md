@@ -4,6 +4,7 @@ definition: +Hexb +P2ry12 +Crybb1 -Pf4
 go:
 shogoin: 116m
 uberon:
+categories:
 synonyms:
 wikipedia: https://en.wikipedia.org/wiki/Microglia
 predecessors:

@@ -4,6 +4,7 @@ definition: +Igfbpl1 +Neurog2 +Neurog1 -Nhlh2 -Onecut2
 go:
 shogoin: 
 uberon:
+categories:
 synonyms:
 ---
 

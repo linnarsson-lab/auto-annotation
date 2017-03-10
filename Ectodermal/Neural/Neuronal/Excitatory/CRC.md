@@ -4,6 +4,7 @@ definition: +Reln +Ndnf -Slc32a1
 go:
 shogoin: 
 uberon:
+categories:
 synonyms:
 ---
 

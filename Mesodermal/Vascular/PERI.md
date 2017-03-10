@@ -4,6 +4,7 @@ definition: +Rgs5 -Kdr
 go:
 shogoin:
 uberon:
+categories:
 synonyms:
 predecessors:
 ---

@@ -4,6 +4,7 @@ definition: +Acta2 +Actg2 +Myh11 -Ly6c1
 go:
 shogoin: 
 uberon:
+categories:
 synonyms:
 predecessors:
 ---

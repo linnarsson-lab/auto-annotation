@@ -4,6 +4,7 @@ definition: +Cldn5 +Flt1 +Ly6c1 +Slc38a5
 go:
 shogoin: 
 uberon:
+categories:
 synonyms:
 predecessors:
 ---

@@ -4,6 +4,7 @@ definition: +Nr4a2 +Synpr +Slc17a7
 go:
 shogoin: 
 uberon:
+categories:
 synonyms:
 ---
 

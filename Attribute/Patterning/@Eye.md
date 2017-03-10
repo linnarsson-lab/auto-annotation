@@ -4,6 +4,7 @@ definition: +Lhx2 +Rax +Six3 +Pax6
 go:
 shogoin: 
 uberon:
+categories:
 synonyms:
 ---
 

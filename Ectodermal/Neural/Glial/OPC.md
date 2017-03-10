@@ -4,6 +4,7 @@ definition: +Pdgfra +Cspg4 -Lum
 go:
 shogoin: 
 uberon:
+categories:
 synonyms:
 predecessors:
 successors: OL-COP

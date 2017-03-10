@@ -4,6 +4,7 @@ definition: +Atoh1 +Barhl1
 go:
 shogoin: 
 uberon:
+categories:
 synonyms:
 ---
 

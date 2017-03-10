@@ -4,6 +4,7 @@ definition: +Mog +Plp1 -Bmp4
 go:
 shogoin: 
 uberon:
+categories:
 synonyms:
 predecessors: COP
 ---

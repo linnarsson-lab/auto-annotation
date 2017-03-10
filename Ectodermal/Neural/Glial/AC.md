@@ -4,6 +4,7 @@ definition: +Tnc +Aldh1l1 +Aldoc
 go:
 shogoin: 
 uberon:
+categories:
 synonyms:
 predecessors:
 ---

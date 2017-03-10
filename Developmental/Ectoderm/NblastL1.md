@@ -4,6 +4,7 @@ definition: +Crabp1 +Onecut2 +Pitx2
 go:
 shogoin: 
 uberon:
+categories:
 synonyms:
 ---
 

@@ -4,6 +4,7 @@ definition: +Dlx2 +Ascl1
 go:
 shogoin: 
 uberon:
+categories:
 synonyms:
 ---
 

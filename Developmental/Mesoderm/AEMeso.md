@@ -4,6 +4,7 @@ definition: +T +Noto
 go:
 shogoin: 
 uberon:
+categories:
 synonyms:
 ---
 

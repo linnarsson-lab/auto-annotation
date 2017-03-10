@@ -4,6 +4,7 @@ definition: +Neurod1 +Igfbpl1 +Stmn2 -Gfap
 go:
 shogoin: 
 uberon:
+categories:
 synonyms:
 ---
 

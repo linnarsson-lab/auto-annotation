@@ -4,6 +4,7 @@ definition: +Mesp1 +Lefty2 +Mixl1 -Nodal
 go:
 shogoin: 
 uberon:
+categories:
 synonyms:
 ---
 

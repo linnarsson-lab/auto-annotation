@@ -4,6 +4,7 @@ definition: +Isl1 +Isl2 +Onecut3 +Prph +Phox2a -Lhx3
 go:
 shogoin: 
 uberon:
+categories:
 synonyms:
 ---
 

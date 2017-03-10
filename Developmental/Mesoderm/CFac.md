@@ -4,6 +4,7 @@ definition: +Alx1 +Alx3
 go:
 shogoin: 
 uberon:
+categories:
 synonyms:
 ---
 

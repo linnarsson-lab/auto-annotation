@@ -4,6 +4,7 @@ definition: +Rorb +Plcxd2
 go:
 shogoin: 
 uberon:
+categories:
 synonyms:
 ---
 

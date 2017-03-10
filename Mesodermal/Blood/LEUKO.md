@@ -4,6 +4,7 @@ definition: +Cd163 +Cxcl2 +Fcna +Fcgr2b
 go:
 shogoin: 
 uberon:
+categories:
 synonyms:
 predecessors:
 ---

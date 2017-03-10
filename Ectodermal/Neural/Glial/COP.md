@@ -4,6 +4,7 @@ definition: +Bmp4 +Enpp6 +Gpr17
 go:
 shogoin: 
 uberon:
+categories:
 synonyms:
 predecessors: OPC
 successors: NFOL

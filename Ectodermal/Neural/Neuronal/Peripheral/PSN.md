@@ -4,6 +4,7 @@ definition: +Prph +Pirt
 go:
 shogoin: 
 uberon:
+categories:
 synonyms:
 ---
 
