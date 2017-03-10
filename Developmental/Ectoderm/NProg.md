@@ -4,7 +4,7 @@ definition: +Igfbpl1 +Neurog2 +Neurog1 -Nhlh2 -Onecut2
 go:
 shogoin: 
 uberon:
-categories: Ectodermal
+categories: Ectodermal Neuronal Neuroectodermal
 synonyms:
 ---
 

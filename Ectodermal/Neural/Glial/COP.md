@@ -4,7 +4,7 @@ definition: +Bmp4 +Enpp6 +Gpr17
 go:
 shogoin: 
 uberon:
-categories: Ectodermal
+categories: Ectodermal Neuroectodermal
 synonyms:
 predecessors: OPC
 successors: NFOL

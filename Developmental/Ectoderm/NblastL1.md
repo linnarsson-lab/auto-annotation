@@ -4,7 +4,7 @@ definition: +Crabp1 +Onecut2 +Pitx2
 go:
 shogoin: 
 uberon:
-categories: Ectodermal
+categories: Ectodermal Neuronal Neuroectodermal
 synonyms:
 ---
 

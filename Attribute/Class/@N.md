@@ -4,7 +4,7 @@ definition: +Stmn2 +Stmn3 +Meg3 -Cldn5 -Aqp4 -Foxj1 -Hexb -Mrc1 -Lum -Plp1 -Cdk1
 go:
 shogoin: 
 uberon: 
-categories: Ectodermal
+categories: Ectodermal Neuronal Neuroectodermal
 synonyms:
 ---
 

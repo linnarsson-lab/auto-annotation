@@ -4,7 +4,7 @@ definition: +Tesc +Nwd2 +Cpne4 +Necab2
 go:
 shogoin: 
 uberon: 
-categories: Ectodermal
+categories: Ectodermal Neuronal Neuroectodermal
 synonyms:
 ---
 

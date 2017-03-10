@@ -4,7 +4,7 @@ definition: +Atoh1 +Barhl1
 go:
 shogoin: 
 uberon:
-categories: Ectodermal
+categories: Ectodermal Neuronal Neuroectodermal
 synonyms:
 ---
 

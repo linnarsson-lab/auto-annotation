@@ -4,7 +4,7 @@ definition: +Gchfr +Fev +Slc6a4
 go: 0001963 (synaptic transmission, dopaminergic)
 shogoin: 
 uberon: 
-categories: Ectodermal
+categories: Ectodermal Neuronal Neuroectodermal
 synonyms:
 ---
 

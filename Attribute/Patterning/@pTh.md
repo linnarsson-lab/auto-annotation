@@ -4,7 +4,7 @@ definition: +Rspo2 +Rspo3 +Wnt7b +Wnt8b
 go:
 shogoin: 
 uberon: 
-categories: Ectodermal
+categories: Ectodermal Neuronal Neuroectodermal
 synonyms:
 ---
 

@@ -4,7 +4,7 @@ definition: +Tnc +Aldh1l1 +Aldoc
 go:
 shogoin: 
 uberon:
-categories: Ectodermal
+categories: Ectodermal Neuroectodermal
 synonyms:
 predecessors:
 ---

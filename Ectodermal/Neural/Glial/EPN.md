@@ -4,7 +4,7 @@ definition: +Ccdc153 +Tmem212
 go:
 shogoin: 
 uberon: 
-categories: Ectodermal
+categories: Ectodermal Neuroectodermal
 synonyms:
 ---
 

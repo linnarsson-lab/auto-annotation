@@ -4,7 +4,7 @@ definition: +Prph +Pirt
 go:
 shogoin: 
 uberon:
-categories: Ectodermal
+categories: Ectodermal Neuronal Neuroectodermal
 synonyms:
 ---
 

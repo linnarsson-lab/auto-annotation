@@ -4,7 +4,7 @@ definition: +Neurod1 +Igfbpl1 +Stmn2 -Gfap
 go:
 shogoin: 
 uberon:
-categories: Ectodermal
+categories: Ectodermal Neuronal Neuroectodermal
 synonyms:
 ---
 

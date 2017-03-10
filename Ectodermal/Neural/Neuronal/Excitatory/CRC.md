@@ -4,7 +4,7 @@ definition: +Reln +Ndnf -Slc32a1
 go:
 shogoin: 
 uberon:
-categories: Ectodermal
+categories: Ectodermal Neuronal Neuroectodermal
 synonyms:
 ---
 

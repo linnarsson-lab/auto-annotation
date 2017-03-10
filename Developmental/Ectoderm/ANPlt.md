@@ -4,7 +4,7 @@ definition: +Hesx1 +Otx2 +Six3 +Sox2
 go:
 shogoin: 
 uberon:
-categories: Ectodermal
+categories: Ectodermal Neuronal Neuroectodermal
 synonyms:
 ---
 

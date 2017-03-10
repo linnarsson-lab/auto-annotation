@@ -4,7 +4,7 @@ definition: +Sox14 +Asic4
 go:
 shogoin: 
 uberon: 
-categories: Ectodermal
+categories: Ectodermal Neuronal Neuroectodermal
 synonyms:
 ---
 

@@ -4,7 +4,7 @@ definition: +Sox10
 go:
 shogoin: 
 uberon: 
-categories: Ectodermal
+categories: Ectodermal Neuroectodermal
 synonyms:
 ---
 

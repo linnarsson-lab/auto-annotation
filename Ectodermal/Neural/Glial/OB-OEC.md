@@ -4,7 +4,7 @@ definition: +Npy +Plp1 +Ccdc80
 go:
 shogoin: 
 uberon:
-categories: Ectodermal
+categories: Ectodermal Neuroectodermal
 synonyms:
 ---
 

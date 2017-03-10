@@ -4,7 +4,7 @@ definition: +C1ql2 +Prox1 -Sv2b
 go:
 shogoin: 
 uberon: (granule layer)
-categories: Ectodermal
+categories: Ectodermal Neuronal Neuroectodermal
 synonyms:
 predecessors: DG-IGC
 ---

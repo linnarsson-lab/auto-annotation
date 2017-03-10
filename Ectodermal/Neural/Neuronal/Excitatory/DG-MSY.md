@@ -4,7 +4,7 @@ definition: +Sv2b +Neurod6
 go:
 shogoin: 
 uberon: (hilus)
-categories: Ectodermal
+categories: Ectodermal Neuronal Neuroectodermal
 synonyms:
 ---
 

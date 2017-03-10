@@ -4,7 +4,7 @@ definition: +Dlx2 +Ascl1
 go:
 shogoin: 
 uberon:
-categories: Ectodermal
+categories: Ectodermal Neuronal Neuroectodermal
 synonyms:
 ---
 
