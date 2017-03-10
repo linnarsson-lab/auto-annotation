@@ -3,7 +3,7 @@ abbreviation: Rgl
 definition: +Hes1 +Vim +Sox2 -Kdr -Rgs5
 go:
 shogoin: 
-uberon: (outer molecular layer)
+uberon:
 categories: Ectodermal Neuronal Neuroectodermal
 synonyms:
 ---
