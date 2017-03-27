@@ -4,7 +4,7 @@ definition: +Hes1 +Vim +Sox2 -Kdr -Rgs5
 go:
 shogoin: 
 uberon:
-categories: Ectodermal Neuronal Neuroectodermal
+categories: Ectodermal Neuronal Neuroectodermal Radialglialike
 synonyms:
 ---
 

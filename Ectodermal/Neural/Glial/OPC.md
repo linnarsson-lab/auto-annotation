@@ -4,7 +4,7 @@ definition: +Pdgfra +Cspg4 -Lum
 go:
 shogoin: 
 uberon:
-categories: Ectodermal Neuroectodermal
+categories: Ectodermal Neuroectodermal Radialglialike
 synonyms:
 predecessors:
 successors: OL-COP
