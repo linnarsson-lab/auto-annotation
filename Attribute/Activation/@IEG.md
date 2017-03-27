@@ -5,6 +5,7 @@ go:
 shogoin: 
 uberon: 
 categories:
+version: 1
 synonyms:
 ---
 

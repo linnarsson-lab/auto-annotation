@@ -5,6 +5,7 @@ go:
 shogoin: 116m
 uberon:
 categories: Endomesodermal
+version: 1
 synonyms:
 wikipedia: https://en.wikipedia.org/wiki/Microglia
 predecessors:

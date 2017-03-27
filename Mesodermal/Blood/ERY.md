@@ -5,6 +5,7 @@ go:
 shogoin: 014m
 uberon:
 categories: Endomesodermal
+version: 1
 synonyms: Red blood cell
 ---
 

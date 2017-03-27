@@ -5,6 +5,7 @@ go:
 shogoin: 
 uberon: (hilus)
 categories: Ectodermal Neuronal Neuroectodermal
+version: 1
 synonyms:
 ---
 

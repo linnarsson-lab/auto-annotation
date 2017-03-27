@@ -5,6 +5,7 @@ go:
 shogoin: 
 uberon: 
 categories: Ectodermal
+version: 1
 synonyms:
 ---
 

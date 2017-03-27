@@ -5,6 +5,7 @@ go:
 shogoin: 
 uberon: (outer molecular layer)
 categories: Ectodermal Neuronal Neuroectodermal
+version: 1
 synonyms:
 ---
 

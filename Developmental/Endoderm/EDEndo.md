@@ -5,6 +5,7 @@ go:
 shogoin: 
 uberon: (outer molecular layer)
 categories: Endomesodermal
+version: 1
 synonyms:
 ---
 

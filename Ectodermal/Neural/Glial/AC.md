@@ -5,6 +5,7 @@ go:
 shogoin: 
 uberon:
 categories: Ectodermal Neuroectodermal
+version: 1
 synonyms:
 predecessors:
 ---
