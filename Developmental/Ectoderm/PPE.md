@@ -17,7 +17,7 @@ Justification:
 
 
 Very nice ISH shows the Fig1 A and A'
-[doi: 10.1242/dev.054056] In the mouse embryo, pharyngeal arches develop in a rostral-to-caudal manner. At E8.5, when the first arch formation is observed, Ripply3 signals were observed in the pharyngeal ectoderm. [...] Ripply3, a Tbx1 repressor, is required for development of the pharyngeal apparatus and its derivatives in mice. [...] Whole-mount in situ hybridization for mouse Ripply3 at E8.5 (A,A′), E8.75 (B), E9.0 (C), E9.5 (D) and E10.0 (E). A transverse section of an E8.5 embryo hybridized with the Ripply3 probe indicates that Ripply3 is expressed in the ectoderm at this stage (A′) 
+[doi: 10.1242/dev.054056] In the mouse embryo, pharyngeal arches develop in a rostral-to-caudal manner. At E8.5, when the first arch formation is observed, Ripply3 signals were observed in the pharyngeal ectoderm. [...] Ripply3, a Tbx1 repressor, is required for development of the pharyngeal apparatus and its derivatives in mice. [...] Whole-mount in situ hybridization for mouse Ripply3 at E8.5 (A,A'), E8.75 (B), E9.0 (C), E9.5 (D) and E10.0 (E). A transverse section of an E8.5 embryo hybridized with the Ripply3 probe indicates that Ripply3 is expressed in the ectoderm at this stage (A') 
 
 Other genes
 Pax9 Has2 Gata3 Nkx2-3
