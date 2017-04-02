@@ -4,7 +4,7 @@ definition: +Trpm1 +Vax2
 go:
 shogoin: 
 uberon:
-categories: Ectodermal Neuroectodermal
+categories: Ectodermal Neuroectodermal Radialglialike
 version: 1.5
 synonyms:
 ---
