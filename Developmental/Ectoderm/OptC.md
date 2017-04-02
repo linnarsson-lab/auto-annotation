@@ -18,7 +18,7 @@ Justification:
 We localized TRPM1 in human retina to the ON bipolar cell dendrites in the outer plexifom layer
 
 
-[doi: 10.1073/pnas.96.19.10729] Expression pattern of vax2 in mouse (A–E), human (F), and Xenopus embryos (G–J) as determined by in situ hybridization. Vax2 expression in mouse embryos is restricted to the entire inferior neural retina, starting from E9 (A), when it is expressed in the ventral half of the optic cup, to E12.5 (B) and E16.5 (C)
+[doi: 10.1073/pnas.96.19.10729] Expression pattern of vax2 in mouse (A-E), human (F), and Xenopus embryos (G-J) as determined by in situ hybridization. Vax2 expression in mouse embryos is restricted to the entire inferior neural retina, starting from E9 (A), when it is expressed in the ventral half of the optic cup, to E12.5 (B) and E16.5 (C)
 
 [http://dx.doi.org/10.1016/j.ajhg.2013.11.002] Recessive Mutations in SLC38A8 Cause Foveal Hypoplasia and Optic Nerve Misrouting without Albinism
 

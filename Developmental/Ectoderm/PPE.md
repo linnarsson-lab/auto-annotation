@@ -13,7 +13,7 @@ Pre-placodal Ectoderm (It is an anterior lateral crescent-shaped region that for
 
 Justification:
 
-[doi: 10.1242/dev.071456] RARα2 signaling induces key pre-placodal genes and establishes the posterolateral borders of the PPE. RAR signaling upregulates two important genes, Tbx1 and Ripply3, during early PPE development. In the absence of RIPPLY3, TBX1 is required for the expression of Fgf8 and hence, PPE formation. In the presence of RIPPLY3, TBX1 acts as a transcriptional repressor, and functions to restrict the positional expression of Fgf8, a key regulator of PPE gene expression.
+[doi: 10.1242/dev.071456] RARalpha2 signaling induces key pre-placodal genes and establishes the posterolateral borders of the PPE. RAR signaling upregulates two important genes, Tbx1 and Ripply3, during early PPE development. In the absence of RIPPLY3, TBX1 is required for the expression of Fgf8 and hence, PPE formation. In the presence of RIPPLY3, TBX1 acts as a transcriptional repressor, and functions to restrict the positional expression of Fgf8, a key regulator of PPE gene expression.
 
 
 Very nice ISH shows the Fig1 A and A'
