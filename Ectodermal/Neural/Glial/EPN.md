@@ -16,3 +16,6 @@ Justification:
 * According to cortex paper and should work well on development dataset.
 
 Some coming from classical litterature would be welcome. 
+
+Other markers
+Synm Dmkn Crocc2

@@ -1,10 +1,10 @@
 name: Schwann cells
 abbreviation: SCHWA
-definition: +Mpz +Dhh +S100a3 -Tnc
+definition: +Mpz +Dhh +S100a3
 go:
 shogoin: 
 uberon: 
-categories: Ectodermal
+categories: Ectodermal Neural Radialglialike
 version: 1
 synonyms:
 ---
@@ -28,4 +28,6 @@ Mal - [10.1046/j.1471-4159.1999.0730587.x] about the dynamics of exmpression bet
 Be carefull with Astrocyte definition becouse they are also Aldoc and Aldh1a1 positive! Tnc is a good discriminator (at least in development)
 
 Other markers:
-Prss56
+Prss56, Art3, Mal, Ntn5, Aatk, Mlip, Npy
+
+Update: removed Tnc

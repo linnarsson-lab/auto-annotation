@@ -1,6 +1,6 @@
 name: Pre-placodal Ectoderm
 abbreviation: PPE
-definition: +Ripply3 +Tbx1
+definition: +Ripply3 +Tbx1 +Pyy
 go:
 shogoin: 
 uberon:

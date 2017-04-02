@@ -19,5 +19,7 @@ Ntn1 [http://developingmouse.brain-map.org/experiment/show/100084124]
 
 Pdyn [http://developingmouse.brain-map.org/experiment/show/100084121]
 
+Cd36 [La Manno et al. 2016]
+
 See also:
-Ccdc3 Corin Slit1 Clec3b Lgi3 Spon1 Shh 
+Cd36 Ccdc3 Corin Slit1 Clec3b Lgi3 Spon1 Shh 
