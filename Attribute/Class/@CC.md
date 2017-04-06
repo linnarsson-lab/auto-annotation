@@ -4,7 +4,7 @@ definition: +Cdk1 +Top2a +Cenpf
 go:
 shogoin: 
 uberon: 
-categories:
+categories: Cycling
 version: 1
 synonyms:
 - Proliferation
