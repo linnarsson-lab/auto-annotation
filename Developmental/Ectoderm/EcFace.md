@@ -4,7 +4,7 @@ definition: +Sostdc1 +Perp -Tbx1
 go:
 shogoin: 
 uberon:
-categories: Ectodermal
+categories: Ectodermal NeuralCrest
 version: 1.5
 synonyms:
 ---

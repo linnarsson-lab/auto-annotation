@@ -4,7 +4,7 @@ definition: +Ripply3 +Tbx1 +Pyy
 go:
 shogoin: 
 uberon:
-categories: Ectodermal Patterning
+categories: Ectodermal Patterning NeuralCrest
 version: 2
 synonyms:
 ---
@@ -21,3 +21,6 @@ Very nice ISH shows the Fig1 A and A'
 
 Other genes
 Pax9 Has2 Gata3 Nkx2-3
+
+
+It is not neural crest derived I include it here for convenience. It should be removed from categories later.

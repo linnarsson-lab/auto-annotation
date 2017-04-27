@@ -4,7 +4,7 @@ definition: +Wnt1 +Msx2 +Msx1
 go:
 shogoin: 
 uberon: 
-categories: Patterning Ectodermal Neuroectodermal
+categories: Patterning Ectodermal Neuroectodermal NeuralCrest
 version: 2
 synonyms:
 ---

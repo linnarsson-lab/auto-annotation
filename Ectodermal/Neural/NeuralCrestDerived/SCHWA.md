@@ -4,7 +4,7 @@ definition: +Mpz +Dhh +S100a3
 go:
 shogoin: 
 uberon: 
-categories: Ectodermal Neural Radialglialike
+categories: Ectodermal Neural Radialglialike NeuralCrest
 version: 1
 synonyms:
 ---
