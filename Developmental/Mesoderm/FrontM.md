@@ -4,7 +4,7 @@ definition: +Alx1 +Alx3
 go:
 shogoin: 
 uberon:
-categories: Endomesodermal NeuralCrest Face
+categories: Endomesodermal Face
 version: 1
 synonyms:
 ---
