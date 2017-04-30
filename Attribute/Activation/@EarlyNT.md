@@ -1,6 +1,6 @@
 name: Early Neural Tube
 abbreviation: @EarlyNT
-definition: +Lin28 +Ifitm1 +Sox2
+definition: +Lin28a +Ifitm1 +Sox2
 go:
 shogoin: 
 uberon: 

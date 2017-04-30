@@ -1,0 +1,10 @@
+name: Molecular layer interneuron, cerebellum
+abbreviation: CB-MLI
+categories: Ectodermal Neuronal Neuroectodermal
+definition: +Pvalb +Gad1 
+---
+
+Inhibitory interneurons of the cerebellum molecular layer
+
+
+[1] doi:10.1007/s12311-015-0648-x
