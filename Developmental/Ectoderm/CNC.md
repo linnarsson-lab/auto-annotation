@@ -4,7 +4,7 @@ definition: +Dlx2 +Plp1 +Sox10
 go:
 shogoin: 
 uberon:
-categories: Ectodermal
+categories: Ectodermal NeuralCrest Face
 version: 1
 synonyms:
 ---

@@ -4,7 +4,7 @@ definition: +Foxi2 +Vgll2 +Espn +Epcam
 go:
 shogoin: 
 uberon: 
-categories: Endomesodermal
+categories: Endomesodermal Face
 version: 1
 synonyms:
 ---

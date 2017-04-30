@@ -4,7 +4,7 @@ definition: +Barx1 +Dlx5
 go:
 shogoin: 
 uberon: 
-categories: Endomesodermal
+categories: Endomesodermal Face
 version: 1
 synonyms:
 ---
