@@ -4,7 +4,7 @@ definition: +Tnc +Ednrb +Slc6a11
 go:
 shogoin: 
 uberon:
-categories: Ectodermal Neuronal Neuroectodermal Radialglialike
+categories: Ectodermal Neuroectodermal Radialglialike
 version: 1.5
 synonyms:
 ---

@@ -4,7 +4,7 @@ definition: +Olig1 +Olig2 +Dll3 -Aqp4 -Tnc
 go:
 shogoin: 
 uberon:
-categories: Ectodermal Neuronal Neuroectodermal Radialglialike
+categories: Ectodermal Neuroectodermal Radialglialike
 version: 1.5
 synonyms:
 ---
