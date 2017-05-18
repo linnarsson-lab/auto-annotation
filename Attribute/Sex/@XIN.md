@@ -1,6 +1,7 @@
 name: X inactivation
 abbreviation: @XIN
 definition: +Xist +Tsix
+categories: Female
 go:
 shogoin: 
 uberon: 
