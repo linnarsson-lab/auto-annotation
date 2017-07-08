@@ -1,6 +1,6 @@
 name: Habenula and tissues around Pineal gland
 abbreviation: @Habe
-definition: +Tesc +Cpne4 +Necab2
+definition: +Tesc +Nwd2 +Cpne4 +Necab2
 go:
 shogoin: 
 uberon: 
@@ -10,8 +10,6 @@ synonyms:
 ---
 
 (medial) Habenula
-
-+Nwd2 BUG FIX was removed for problems in velocyto!!!
 
 Justification:
 

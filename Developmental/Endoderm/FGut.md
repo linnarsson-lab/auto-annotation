@@ -1,6 +1,6 @@
 name: Early Foregut cells
 abbreviation: FGut
-definition: +Pyy
+definition: +Pyy +Apela
 go:
 shogoin: 
 uberon: 
@@ -12,8 +12,6 @@ synonyms:
 Cells of endodermic origin that form the Foregut
 
 Justification:
-
-+Apela BUG FIX, was eliminated becouse velocyto files do not contain Apela
 
 
 "Ende" is the old name of Apela - [10.1016/j.gep.2010.02.001]
