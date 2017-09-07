@@ -7,6 +7,7 @@ uberon: (granule layer)
 synonyms:
 predecessors: DG-GNB
 successors: DG-GC
+categories: Ectodermal Neuronal Neuroectodermal
 ---
 
 Immature granule cells that arise from @DG-GNB and generate mature granule cells @DG-GC throughout life [1].

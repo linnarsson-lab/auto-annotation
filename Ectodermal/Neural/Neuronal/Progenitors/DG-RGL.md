@@ -9,6 +9,7 @@ synonyms:
 - Radial astrocyte
 - Type 1 progenitor
 - Type B cell
+categories: Ectodermal Neuronal Neuroectodermal
 ---
 
 Neuronal stem cells that persist into adulthood and give rise to granule cells ([DG-GC]) throughout life [1].

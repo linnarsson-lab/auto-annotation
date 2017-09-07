@@ -6,6 +6,7 @@ shogoin:
 uberon: 
 synonyms:
 - Glutamatergic neurotransmission
+categories: Ectodermal Neuronal Neuroectodermal
 ---
 
 Cells possessing excitatory glutamatergic presynaptic terminals. 

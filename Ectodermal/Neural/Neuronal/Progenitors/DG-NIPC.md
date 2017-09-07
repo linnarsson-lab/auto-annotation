@@ -9,6 +9,7 @@ synonyms:
 - Type C cell
 predecessors: DG-RGL
 successors: DG-GNB
+categories: Ectodermal Neuronal Neuroectodermal
 ---
 
 Proliferating intermediate progenitors that arise from ([DG-RGL]) and generate granule cells ([DG-GC]) throughout life [1].

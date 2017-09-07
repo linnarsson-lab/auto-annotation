@@ -9,6 +9,7 @@ synonyms:
 - Type A cell
 predecessors: DG-nIPC
 successors: DG-GNB
+categories: Ectodermal Neuronal Neuroectodermal
 ---
 
 Migrating neuroblasts that arise from (@DG-nIPC) and generate granule cells (@DG-GC) throughout life [1].
