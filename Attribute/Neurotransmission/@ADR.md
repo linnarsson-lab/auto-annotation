@@ -1,16 +1,17 @@
-name: Noradrenergic
-abbreviation: @NOR
-definition: +Dbh +Ddc +Th
+name: Adrenergic
+abbreviation: @ADR
+definition: +Dbh +Ddc +Th +Pnmt
 categories: Ectodermal Neuronal Neuroectodermal
 version: 1
 synonyms:
-- Noradrenergic neurotransmission
+- Adrenergic neurotransmission
 ---
 
-Cells possessing noradrenergic presynaptic terminals. 
+Cells possessing adrenergic presynaptic terminals. 
 
 Justification:
 
+* Expresses Pnmt, the rate limiting enzyme in the synthesis of adrenalin
 * Expresses Dbh, the rate limiting enzyme in the synthesis of noradrenalin
 * Expresses the upstream enzymes Th and Ddc
 

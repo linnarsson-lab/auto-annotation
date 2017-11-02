@@ -1,6 +1,6 @@
 name: Microglia
 abbreviation: MGL
-definition: +Hexb +P2ry12 +Crybb1 -Pf4
+definition: +Hexb +Aif1
 go:
 shogoin: 116m
 uberon:

@@ -7,7 +7,6 @@ uberon: (granule layer)
 categories: Ectodermal Neuronal Neuroectodermal
 version: 1
 synonyms:
-predecessors: DG-IGC
 ---
 
 Mature granule cells that arise from @DG-IGC [1].

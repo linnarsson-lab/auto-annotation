@@ -1,5 +1,5 @@
-name: Subcommissural organ 
-abbreviation: SCO
+name: Subcommissural organ hypendymal cell
+abbreviation: SCO-HYP
 definition: +Spdef +Ferd3l +Sspo
 go:
 shogoin: 
@@ -9,7 +9,7 @@ version: 1.5
 synonyms:
 ---
 
-Subcommissural organ cell
+Subcommissural organ hypendymal cell
 
 Justification:
 
@@ -19,7 +19,7 @@ NOTE: any of the markers alone is able to identify the cell type. Here I put thr
 
 [PMID: 8743952] SCO-spondin: a new member of the thrombospondin family secreted by the subcommissural organ is a candidate in the modulation of neuronal aggregation.
 
-[10.1007/BF00261828] Furthermore, they accumulate GABA by a highly specific uptake mechanism,which resembles the GABA uptake by neurons. -> Note: Maybe that is what Slc35f4 is for...
+[10.1007/BF00261828] Furthermore, they accumulate GABA by a highly specific uptake mechanism, which resembles the GABA uptake by neurons. -> Note: Maybe that is what Slc35f4 is for...
 
 [10.1002/(SICI)1097-0029(19980415)41:2<98::AID-JEMT2>3.0.CO;2-M]
 
