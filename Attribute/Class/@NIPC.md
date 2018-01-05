@@ -14,3 +14,5 @@ Cells that are committed to neuronal fate, but not yet fully postmitotic.
 Justification:
 
 * Express Eomes, also known as Tbr2, a marker of neuronal intermediate progenitor cells
+
+Removed because extremely unspecific
