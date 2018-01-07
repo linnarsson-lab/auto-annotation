@@ -4,7 +4,7 @@ definition: +En1 +Pax2 +Pax5 +Pax8
 go:
 shogoin: 
 uberon: 
-categories: Patterning Ectodermal Neuroectodermal Neuronal
+categories: Hindbrain Midbrain Patterning Ectodermal Neuroectodermal Neuronal
 version: 2
 synonyms:
 ---

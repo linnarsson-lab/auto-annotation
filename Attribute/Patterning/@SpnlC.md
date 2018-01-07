@@ -4,7 +4,7 @@ definition: +Sfrp5 +Cpn1 +1700011H14Rik
 go:
 shogoin: 
 uberon: 
-categories: Patterning
+categories: Hindbrain Spinal Patterning
 version: 2
 synonyms:
 ---
@@ -26,3 +26,6 @@ Also same markers characterize the patterning of the endoderm
 
 Other markers:
 Msx3
+Gm28230
+Hoxb4
+Hoxa1
