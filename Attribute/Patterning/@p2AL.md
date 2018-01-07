@@ -4,7 +4,7 @@ definition: +Irx5 +Irx3 +Tal2 -Wnt8b -Rspo2 -Dlx5
 go:
 shogoin: 
 uberon: 
-categories: Ectodermal Neuronal Neuroectodermal
+categories: Ectodermal Neuronal Neuroectodermal Forebrain
 version: 1
 synonyms:
 ---

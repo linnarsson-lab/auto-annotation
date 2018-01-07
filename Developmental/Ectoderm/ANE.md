@@ -4,7 +4,7 @@ definition: +Hesx1 +Six3 +Foxd4
 go:
 shogoin: 
 uberon:
-categories: Ectodermal Neuroectodermal
+categories: Ectodermal Neuroectodermal Forebrain
 version: 1.5
 synonyms:
 ---

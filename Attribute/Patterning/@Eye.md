@@ -4,7 +4,7 @@ definition: +Lhx2 +Rax +Six3 +Pax6
 go:
 shogoin: 
 uberon:
-categories: Ectodermal Neuronal Neuroectodermal
+categories: Ectodermal Neuronal Neuroectodermal Forebrain
 version: 1
 synonyms:
 ---
