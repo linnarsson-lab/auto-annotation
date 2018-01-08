@@ -4,7 +4,7 @@ definition: +Vgll3 +Nkx2-9 +Tgfb2
 go:
 shogoin: 
 uberon: 
-categories: Patterning SpinalCord Hindbrain
+categories: Patterning Spinal Hindbrain
 version: 2
 synonyms:
 ---
