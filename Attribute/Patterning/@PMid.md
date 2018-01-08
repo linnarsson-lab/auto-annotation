@@ -4,7 +4,7 @@ definition: +Tfap2d +Pou4f3
 go:
 shogoin: 
 uberon: 
-categories: Ectodermal Neuronal Neuroectodermal
+categories: Ectodermal Neuronal Neuroectodermal Midbrain
 version: 1
 synonyms:
 ---

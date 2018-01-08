@@ -4,7 +4,7 @@ definition: +Wnt1 +Rspo1 -Emx1
 go:
 shogoin: 
 uberon: 
-categories: Patterning Ectodermal Neuroectodermal Neuronal
+categories: Patterning Midbrain Ectodermal Neuroectodermal Neuronal
 version: 2
 synonyms:
 ---
