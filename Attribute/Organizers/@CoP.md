@@ -21,3 +21,5 @@ Takes the name of Anterior Neural Ridge (ANR) early when the neaural tube is ope
 
 Other markers:
 Cytl1, Fbxw4, Kitl, Nrtn, Sp8
+
+Attention Fgf8 and Fgf17 are also expressed in the Midbrain-Hindbrain boundary
