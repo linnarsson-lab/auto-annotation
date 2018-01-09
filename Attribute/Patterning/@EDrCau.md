@@ -4,7 +4,7 @@ definition: +Msx3 +Msx1 +Msx2
 go:
 shogoin: 
 uberon: 
-categories: Ectodermal Neuronal Neuroectodermal Hindbrain Spinal
+categories: Ectodermal Neuronal Neuroectodermal Hindbrain Spinal Dorsal
 version: 2
 synonyms:
 ---

@@ -4,7 +4,7 @@ definition: +Hoxa2 +Hoxb2 +Egr2
 go:
 shogoin: 
 uberon: 
-categories: Patterning
+categories: Patterning Hindbrain
 version: 2
 synonyms:
 ---
