@@ -1,11 +1,11 @@
 name: Developing Diencephalon
 abbreviation: @Dienc
-definition: +Emx2 +Barhl2 +Pax6 -Robo3 -Six6
+definition: +Emx2 +Barhl2 +Pax6 -Robo3
 go:
 shogoin: 
 uberon:
 categories: Ectodermal Neuronal Neuroectodermal Forebrain Diencephalon
-version: 1
+version: 3
 synonyms:
 ---
 
