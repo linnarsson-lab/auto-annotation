@@ -1,5 +1,5 @@
 name: Rhombomeric Neural Crest
-abbreviation: MesNC
+abbreviation: HinNC
 definition: +Hoxb2 +Hoxa2 +Sox10 +Plp1
 go:
 shogoin: 
