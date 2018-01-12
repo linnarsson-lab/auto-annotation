@@ -1,6 +1,6 @@
 name: Interneuron, hippocampus
 abbreviation: HC-Cacna2d1-Lhx6
-definition: +Gad1 +Lamp5 -Htr3a
+definition: +Gad1 +Lamp5 +Stmn2 -Htr3a
 categories: Ectodermal Neuronal Neuroectodermal
 ---
 
@@ -15,3 +15,5 @@ Specific: +Hapln1 +Npy +Id2
 
 Potential subcluster:
 KH also identified -Lhx6 cluster with similar specific markers (Lamp5 etc.), called Cacna2d1.Ndnf "CGE-derived neurogliaform"
+
+I hadded +Stmn2 to improve accuracy

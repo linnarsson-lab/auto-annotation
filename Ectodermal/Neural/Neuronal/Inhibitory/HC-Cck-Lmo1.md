@@ -1,6 +1,6 @@
 name: Interneuron, hippocampus
 abbreviation: HC-Cck-Lmo1
-definition: +Gad1 +Trp53i11 -Cxcl14 -Vip
+definition: +Gad1 +Trp53i11 +Stmn2 -Cxcl14 -Vip
 categories: Ectodermal Neuronal Neuroectodermal
 ---
 

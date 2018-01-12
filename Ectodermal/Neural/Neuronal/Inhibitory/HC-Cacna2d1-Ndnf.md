@@ -1,6 +1,6 @@
 name: Interneuron, hippocampus
 abbreviation: HC-Cacna2d1-Ndnf
-definition: +Gad1 +Lamp5 +Ndnf +Htr3a
+definition: +Gad1 +Lamp5 +Ndnf +Htr3a +Stmn2
 categories: Ectodermal Neuronal Neuroectodermal
 ---
 
