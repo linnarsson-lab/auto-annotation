@@ -27,6 +27,8 @@ Prrxl1 is also known as drg11/DRG11
 
 [DOI: http://dx.doi.org/10.1016/S0896-6273(01)00341-5] The Paired Homeodomain Protein DRG11 Is Required for the Projection of Cutaneous Sensory Afferent Fibers to the Dorsal Spinal Cord
 
+[DOI: 10.1002/dvdy.22305] Prrxl1 is required for the generation of a subset of nociceptive glutamatergic superficial spinal dorsal horn neurons.
+
 Other markers
 
 Mgat4c
