@@ -4,7 +4,7 @@ definition: +Lhx8 +Twist2 +Prrx1 +Dlx2
 go:
 shogoin: 
 uberon:
-categories: Ectodermal Neuroectodermal NeuralCrest Face
+categories: Ectodermal NeuralCrest Face
 version: 2
 synonyms:
 ---

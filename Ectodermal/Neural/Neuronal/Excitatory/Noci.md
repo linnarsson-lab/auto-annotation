@@ -4,7 +4,7 @@ definition: +Hoxd1 +Runx1 +Ntrk1
 go:
 shogoin: 
 uberon:
-categories: Ectodermal Neuroectodermal NeuralCrest Neuronal
+categories: Ectodermal NeuralCrest Neuronal
 version: 2
 synonyms:
 ---

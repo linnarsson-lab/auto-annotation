@@ -4,7 +4,7 @@ definition: +Hoxb2 +Hoxa2 +Sox10 +Plp1
 go:
 shogoin: 
 uberon:
-categories: Ectodermal Neuroectodermal NeuralCrest Face
+categories: Ectodermal NeuralCrest
 version: 2
 synonyms:
 ---

@@ -4,7 +4,7 @@ definition: +Dlx5 +Hopx +Prrx1
 go:
 shogoin: 
 uberon:
-categories: Ectodermal Neuroectodermal NeuralCrest Face
+categories: Ectodermal NeuralCrest Face
 version: 2
 synonyms:
 ---

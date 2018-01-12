@@ -4,7 +4,7 @@ definition: +Steap1 +Postn
 go:
 shogoin: 
 uberon: 
-categories: Endomesodermal NeuralCrest
+categories: Endomesodermal
 version: 1
 synonyms:
 ---
