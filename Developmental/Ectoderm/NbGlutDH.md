@@ -1,4 +1,4 @@
-name: Neuroblast gluatmatergic, maybe DH sensory
+name: Neuroblast glutamatergic, maybe DH sensory
 abbreviation: NbGlutDH
 definition: +Tlx3 +Prrxl1 +Lmx1b +Slc17a6
 go:
@@ -9,7 +9,7 @@ version: 2
 synonyms:
 ---
 
-Neuroblast gluatmatergic maybe dorsal horn sensory (found in hindbrain dev data)
+Neuroblast glutamatergic maybe dorsal horn sensory (found in hindbrain dev data)
 
 Justification:
 
