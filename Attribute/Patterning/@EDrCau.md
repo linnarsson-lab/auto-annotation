@@ -9,7 +9,7 @@ version: 2
 synonyms:
 ---
 
-Early Dorsal caudal part of the Hindbrain and Spinal Cord, 
+Early Dorsal caudal part of the Hindbrain and rostral Spinal Cord, 
 
 Justification:
 
