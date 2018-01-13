@@ -1,5 +1,5 @@
-name: Neuroblast glutamatergic 1
-abbreviation: NbGlut1
+name: Hindbrain C1 Glutamatergic Neuroblast
+abbreviation: NbGlutHc1
 definition: +Lhx2 +Lhx9 +Atoh1 +Barhl2 +Barhl1
 go:
 shogoin: 
@@ -9,7 +9,7 @@ version: 2
 synonyms:
 ---
 
-Neuroblast glutmatergic type 1 (found in hindbrain dev data)
+Neuroblast glutmatergic of the c1 domain of the hindbrain, corresponds to the rhombic lip
 
 Justification:
 
@@ -22,3 +22,8 @@ Mice lacking the proneural transcription factor Math1 (Atoh1) lack multiple neur
 [DOI: 10.1016/j.neuron.2005.08.028] Math1 is expressed in temporally discrete pools of cerebellar rhombic-lip neural progenitors.
 
 We have utilized an in vivo-inducible genetic-fate-mapping strategy to permanently label cohorts of Math1-positive cells and their progeny that arise in the rhombic lip of the cerebellar primordium during embryogenesis.
+
+
+[DOI10.1155/2012/921732] The c1 domain, expressing Atoh1, corresponds to the rhombic lip that produces all types of glutamatergic neurons in the cerebellum.
+
+But note this review is a bit too Cerebeloum-centric so it does not have to be so specific
