@@ -13,6 +13,8 @@ Early Dorsal caudal part of the Hindbrain and rostral Spinal Cord,
 
 Justification:
 
+I also found this cell type / patterning in the midbrain
+
 [PMID: 8887328] Msx3: a novel murine homologue of the Drosophila msh homeobox gene restricted to the dorsal embryonic central nervous system.
 
 RNA in situ analysis of Msx3 gene expression during early development revealed that it is restricted to the dorsal portion of the neural tube with a rostral boundary in the rostral rhombencephalon. This sole expression domain for Msx3 overlaps with both Msx1 and Msx2 at early stages, but in older embryos, Msx3 expression becomes restricted to the ventricular zone of the dorsal neural tube, whereas Msx1 and Msx2 become localized to the non-neuronal roof plate region.
