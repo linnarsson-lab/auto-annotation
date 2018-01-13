@@ -1,6 +1,6 @@
 name: Gabaergic neurons cerebellar c2v
-abbreviation: Glyc-Skor1
-definition: +Pax2 +Opt +Adarb +Gad1 +Gad2 -Skor1
+abbreviation: Glyc-Cblc2
+definition: +Pax2 +Otp +Adarb2 +Gad1 +Gad2 -Skor1
 categories: Ectodermal Neuronal Neuroectodermal
 ---
 
