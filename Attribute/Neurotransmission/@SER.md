@@ -4,8 +4,9 @@ definition: +Tph2 +Fev
 categories: Ectodermal Neuronal Neuroectodermal
 version: 1
 synonyms:
-- Serotonergic neurotransmission
 ---
+
+- Serotonergic neurotransmission
 
 Cells possessing serotonergic presynaptic terminals. 
 

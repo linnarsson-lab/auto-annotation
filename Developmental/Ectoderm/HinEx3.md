@@ -13,8 +13,6 @@ AllenBrain:
 
 
 Wiki:
-[http://sanger.mbb.ki.se/dokuwiki/doku.php?id=trinary_filter] filter: 
-cluster: 
 
 Other markers:
 Cbln2
