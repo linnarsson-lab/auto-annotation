@@ -1,6 +1,6 @@
 name: Cajal-Retzius cell
 abbreviation: CRC
-definition: +Reln +Ndnf -Slc32a1
+definition: +Reln +Trp73 +Lhx5 -Slc32a1
 go:
 shogoin: 
 uberon:
@@ -31,3 +31,6 @@ Anti-EMX2 immunoreactivity is also detectable in CajalRetzius cells as well as i
 
 
 It is courious that Trp73 ("P73") an homolog of P53 is a marker for those cells.
+
+I removed Ndnf since expression was a bit sparse in development
+I added Lhx5 since it was present in the new adult annotation and expressed with na higher confidence
