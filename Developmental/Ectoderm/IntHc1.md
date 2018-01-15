@@ -1,5 +1,5 @@
 name: Developmental Interneuron hippocampus-like type 1
-abbreviation: HC-Sst-Npy
+abbreviation: IntHc1
 definition: +Gad1 +Nrxn3 +Nxph1 +Lhx6 +Sst +Maf
 categories: Ectodermal Neuronal Neuroectodermal
 ---
