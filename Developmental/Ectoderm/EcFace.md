@@ -1,6 +1,6 @@
 name: Orofacial Primordia
 abbreviation: EcFace
-definition: +Sostdc1 +Perp -Tbx1
+definition: +Sostdc1 +Perp -Tbx1 -Ttr
 go:
 shogoin: 
 uberon:
@@ -23,3 +23,5 @@ Four paired prominences give rise to the vertebrate face: the medial nasal (mnp)
 [...] Sostdc1 (also known as Ectodin or Wise) is a known Bmp antagonist (Kassai et al., 2005) that also binds Lrp6 directly to regulate Wnt signaling activities (Itasaki et al., 2003). We found that Sostdc1 expression was dramatically attenuated in the surface ectoderm of Lrp6-KO embryos at E10.5.
 [...] Expression signals of Sostdc1 are present on the surface ectoderm (arrows) of the normal control but not the mutant embryo
 [...] This is consistent with a recent report that Sostdc1 expression is suppressed in cells with high Wnt signaling activity but induced in adjacent cells
+
+Updated to distinquish it from Choriod plexus (+Ttr +Kcne2 +Aqp1)
