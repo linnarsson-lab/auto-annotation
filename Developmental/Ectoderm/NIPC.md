@@ -2,6 +2,7 @@ name: Neuronal intermediate progenitor cell
 abbreviation: NIPC
 definition: +Eomes +Neurog2 +Mfng +Btbd17
 categories: Ectodermal Neuroectodermal Neuronal
+---
 
 Justification:
 
