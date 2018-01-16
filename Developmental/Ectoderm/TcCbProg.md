@@ -9,7 +9,7 @@ version: 1
 synonyms:
 ---
 
-A progenitor cell population around the MHB it is Putative Teactum and Cerebellar Progenitors
+A progenitor cell population around the MHB it is Putative Tectum and Cerebellar Progenitors
 
 Justification:
 
