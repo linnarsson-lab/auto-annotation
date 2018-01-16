@@ -1,5 +1,5 @@
 name: Pallidum or POA Neuroblasts
-abbreviation: NbPall
+abbreviation: NbPal
 definition: +Gsx1 +Ascl1 +Pon2 +Isl1
 categories: Ectodermal Neuronal Neuroectodermal
 ---
