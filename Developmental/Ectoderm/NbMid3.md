@@ -1,0 +1,15 @@
+name: Neuroblast Midbrain 3
+abbreviation: NbMid3
+definition: +Lmo3 +Pou4f3 +Islr2 +Tcf7l2
+go:
+shogoin: 
+uberon:
+categories: Ectodermal Neuronal Neuroectodermal
+version: 2
+synonyms:
+---
+
+Neuroblast of the Midbrain type 3 (COmmissural/juxtacomissural pretectal domain)
+
+Justification:
+Lmo3 [http://developingmouse.brain-map.org/experiment/show/100047600]
