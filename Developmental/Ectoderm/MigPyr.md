@@ -19,4 +19,8 @@ https://doi.org/10.1016/j.neuron.2012.04.025
 3) "Expression and loss-of-function studies have indicated that the [upper layer] neurons of the neocortex include at least two subpopulations, Satb2+ and Unc5d+ neurons; whereas Satb2+ neurons migrate toward the CP immediately after their cell cycle exit, Unc5D-positive cells undergo a longer waiting period...within the SVZ."
 https://doi.org/10.3389/fnins.2015.00274
 
+4) Also express Nrp1, which is expressed in migrating neurons: 
+doi:10.1038/nn2018
+https://doi.org/10.3389/fncel.2017.00123
+
 Found in Forebrain Dorsal 16-18. Overlaps with Nrg1 in one cluster.
