@@ -1,6 +1,6 @@
 name: Gabaergic Neuroblast of the colliculus
 abbreviation: NbIntCL1
-definition: +Dmbx1 +Pdzd2 +Col25a1 +Pax7 -Tcf7l2
+definition: +Pdzd2 +Trpm3 +Col25a1 +Pax7 -Tcf7l2
 go:
 shogoin: 
 uberon:
@@ -29,6 +29,7 @@ MEINH10 (both are dorsal midbrain interneurons of the superior colliculus)
 MEINH12 
 
 Other markers
+Dmbx1
 Sp5
 Ptchd4
 Rspo2
