@@ -16,3 +16,18 @@ Justification:
 Other Markers:
 
 Lhx2, Lhx9, Robo3, D930028M14Rik, Onecut1
+
+In an indipendent analusus I found:
+Fstl5
+Gm28050
+Gm26872
+Bmp7
+3632451O06Rik
+Onecut2
+Crabp1
+Bnc2
+D930028M14Rik
+Gm20649
+Rgs6
+Lef1
+Robo3
