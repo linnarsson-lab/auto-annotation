@@ -1,6 +1,6 @@
 name: Inner Ear cells
 abbreviation: IEar
-definition: +Hmx2 +Hmx3
+definition: +Hmx2 +Hmx3 -Fev
 go:
 shogoin: 
 uberon:
@@ -21,6 +21,8 @@ Even if I am not sure we were sampling it, this cell type overlaps quite well wi
 [DOI: 10.1016/j.devcel.2004.06.016] "Here, we show that murine Hmx2 and Hmx3 have both overlapping and distinct functions in the development of the inner ear's vestibular system, whereas their functions in the hypothalamic pituitary axis of the CNS appear to be interchangeable"
 
 [http://dx.doi.org/10.1371/journal.pone.0000525] HOXA4 is mentioned
+
+-Fev Because it got mized with the Serotonergic
 
 Other markers:
 

@@ -4,7 +4,7 @@ definition: +Skor1 +Nrxn3 +Slc6a5 -Otp
 categories: Ectodermal Neuronal Neuroectodermal
 ---
 
-Glycinergic neurons expressing Skor1
+Glycinergic neurons (or neuroblasts) expressing Skor1
 
 Justification:
 

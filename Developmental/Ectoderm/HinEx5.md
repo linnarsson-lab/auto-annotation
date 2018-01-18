@@ -1,0 +1,22 @@
+name: Hindbrain Excitatory type 5
+abbreviation: HinEx5
+definition: +Pou4f1 +Hmx2 +Pu4f2 +Hmx3 +Foxp2
+categories: Ectodermal Neuronal Neuroectodermal
+---
+
+
+
+Justification:
+
+
+AllenBrain:
+
+
+Wiki:
+
+Other markers:
+Gabra5
+Foxd3
+Npy1r
+Gm12688
+Etv1
