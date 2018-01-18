@@ -1,6 +1,6 @@
 name: Hindbrain Excitatory type 5
 abbreviation: HinEx5
-definition: +Pou4f1 +Hmx2 +Pu4f2 +Hmx3 +Foxp2
+definition: +Pou4f1 +Hmx2 +Pou4f2 +Hmx3 +Foxp2
 categories: Ectodermal Neuronal Neuroectodermal
 ---
 
