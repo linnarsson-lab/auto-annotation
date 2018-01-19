@@ -1,4 +1,4 @@
-name: Mammillary region of the hypthalamus
+name: Mammillary region of the hypothalamus
 abbreviation: MB
 definition: +Foxb1 +Cck +Uncx +Lhx1os
 categories: Ectodermal Neuroectodermal Neuronal
@@ -15,7 +15,8 @@ doi: 10.1111/j.1460-9568.2004.03844.x
 Also expresses:
 Pitx2+
 Sim1+
-Fezf2
+Fezfz
+Nkx2-1
 
 Pitx2 is expressed in the MR of the hypothalamus (DOI: 10.1002/dvg.20793).
 Sim1 is expressed in hypothalamic peptidergic neurons (wiki).
@@ -26,5 +27,6 @@ Foxb1:
 http://developingmouse.brain-map.org/experiment/ivt?id=112604215,100047129,100047762,100093348,100047739,100085491,100091837,100045598,100045602,79908799,461
 Fezf2:
 http://developingmouse.brain-map.org/experiment/ivt?id=100041520,100028590,100026267,100051543,100051536,100026256,100059246,100032175,100059242,100032251,100026947,100045307,100045692,100022558,75651163,68844839
+Nkx2-1: http://developingmouse.brain-map.org/experiment/ivt?id=100092329,100028395,112603926,100093267,100051626,113104182,113101351,100031825,100051619,100132189,100059128,100093056,100091938,100059120,100083178,100045159,100022409,100045545,74988460,70445269
 
 Found in Forebrain Ventrothalamic E16-18
