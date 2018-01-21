@@ -1,5 +1,5 @@
-name: Migrating interneurons from CGE
-abbreviation: MigInt1
+name: Interneurons from CGE
+abbreviation: CGEInt
 definition: +Adarb2 +Htr3a +Dlx1 +Dlx2 +Dlx5
 go:
 shogoin: 
@@ -9,7 +9,7 @@ version:
 synonyms:
 ---
 
-Similar to NblInh1, but expresses high levels of Adarb2 and Htr3a. Could be a migrating interneuron derived mainly from the CGE
+Similar to NblInh1, but expresses high levels of Adarb2 and Htr3a. Could be a interneuron derived mainly from the CGE.
 
 Justification:
 
