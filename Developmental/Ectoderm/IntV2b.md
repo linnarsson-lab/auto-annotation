@@ -1,6 +1,6 @@
 name: Neuron hindbrain V2b interneurons
 abbreviation: IntV2b
-definition: +Gata3 +Gata2 +Tal1 +Sox14 +Rpp25 +Stmn2
+definition: +Gata3 +Gata2 +Tal1 +Sox14 +Rpp25 -Shox2
 relation: MGabaProg NbMid11
 categories: Ectodermal Neuronal Neuroectodermal Neuroblast
 version: 2
