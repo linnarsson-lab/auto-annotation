@@ -7,7 +7,7 @@ version: 2
 synonyms:
 ---
 
-Neuroblast Midbrain type 9
+Neuroblast (inhibitory) Midbrain type 9
 
 Justification:
 
