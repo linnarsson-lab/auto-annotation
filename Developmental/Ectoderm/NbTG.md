@@ -1,15 +1,14 @@
 name: Tectal gray formation Neuroblast
 abbreviation: NbTG
 definition: +Tfap2b +Foxb1 +Ntng2 +Islr2
-go:
-shogoin: 
-uberon:
+related: NbTG2 NbTG1
 categories: Ectodermal Neuronal Neuroectodermal
 version: 2
 synonyms:
 ---
 
 Tectal gray formation Neuroblast
+(Probably this set of marker does not exist together, it is probably a mixture of cell types)
 
 Justification:
 
