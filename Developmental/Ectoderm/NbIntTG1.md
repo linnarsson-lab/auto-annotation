@@ -1,4 +1,4 @@
-name: Tectal gray formation Gabaergic Neuroblast type1
+name: Tectal gray formation Gabaergic Neuroblast type 1
 abbreviation: NbIntTG1
 definition: +Tfap2b +Nxph1 +Foxp2 +Ptprk -Fstl4
 go:
