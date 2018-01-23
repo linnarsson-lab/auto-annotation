@@ -1,6 +1,6 @@
 name: Neuroblast Midbrain 3
 abbreviation: NbMid3
-definition: +Lmo3 +Pou4f3 +Islr2 +Tcf7l2
+definition: +Lmo3 +Islr2 +Neurod6 -C1ql2
 go:
 shogoin: 
 uberon:
