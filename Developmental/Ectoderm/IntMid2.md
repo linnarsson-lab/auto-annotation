@@ -1,6 +1,6 @@
 name: Developmental Interneuron midbrain type 2
 abbreviation: IntMid2
-definition: +Nfix +Nfib +Pcp4 -Npy -Tal2
+definition: +Nfix +Nfib +Pcp4 +Gad1 -Npy -Tal2
 categories: Ectodermal Neuronal Neuroectodermal
 ---
 
