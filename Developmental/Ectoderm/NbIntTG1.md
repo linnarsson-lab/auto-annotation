@@ -1,6 +1,6 @@
-name: Tectal gray formation Gabaergic Neuroblast
-abbreviation: NbIntTG
-definition: +Pax7 +Tfap2b +Nxph1
+name: Tectal gray formation Gabaergic Neuroblast type1
+abbreviation: NbIntTG1
+definition: +Tfap2b +Nxph1 +Foxp2 +Ptprk -Fstl4
 go:
 shogoin: 
 uberon:
@@ -9,7 +9,7 @@ version: 2
 synonyms:
 ---
 
-Tectal gray formation (Dorsal Midbrain) Gabaergic Neuroblast
+Tectal gray formation (Dorsal Midbrain) Gabaergic Neuroblast type 1
 
 Justification:
 
@@ -25,6 +25,8 @@ found:
 MEINH2 (#218 in L5)
 
 Other markers:
+Ntng1
+Pax7
 Emx2
 Rpp25
 Nxph1
