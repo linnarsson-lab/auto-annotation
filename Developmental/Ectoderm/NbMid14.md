@@ -1,7 +1,7 @@
 name: Neuroblast Midbrain 14
 abbreviation: NbMid14
 definition: +C1ql2 +Prdm8 +Bhlhe23
-related: NbMid3
+related: NbMid3 NbHin3
 categories: Ectodermal Neuronal Neuroectodermal
 version: 2
 synonyms:

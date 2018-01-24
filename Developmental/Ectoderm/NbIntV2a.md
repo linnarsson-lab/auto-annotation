@@ -1,9 +1,7 @@
 name: Neuroblast hindbrain V2a interneurons 
 abbreviation: NbIntV2a
 definition: +Vsx2 +Nkx6-3 +Lhx3
-go:
-shogoin: 
-uberon:
+related: NbExcV2 NbIntV2b
 categories: Ectodermal Neuronal Neuroectodermal Neuroblast
 version: 2
 synonyms:
