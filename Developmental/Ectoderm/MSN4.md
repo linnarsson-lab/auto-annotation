@@ -1,6 +1,6 @@
 name: D1 medium spiny neurons, striatum
 abbreviation: MSN4
-definition: +Isl1 +Ptprg +Zfp804a
+definition: +Isl1 +Ptprg +Zfp804a +Pou3f1
 related: MSN1
 categories: Ectodermal Neuronal Neuroectodermal
 ---

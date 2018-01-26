@@ -24,7 +24,5 @@ Sox14
 Nrtn
 Pnoc
 
-Note: KILLED because it was marking 10 types of midbrain inhibitory neurons/neuroblasts -> added +Sox14 and -Dlx2 to the definition 
-
-
-
+Note: KILLED because it was marking 10 types of midbrain inhibitory neurons/neuroblasts 
+-> added +Sox14 and -Dlx2 to the definition
