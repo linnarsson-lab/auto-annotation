@@ -1,6 +1,6 @@
 name: Forebrain neuroblast type 8
 abbreviation: NbFor8
-definition: +Lmo3 +Grm5 + Runx1t1 +Nrp2 -Syn3
+definition: +Lmo3 +Grm5 +Runx1t1 +Nrp2 -Syn3
 related: NbFor9
 categories: Ectodermal Neuronal Neuroectodermal
 ---
