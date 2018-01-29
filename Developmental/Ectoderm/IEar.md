@@ -15,6 +15,10 @@ Justification:
 
 Even if I am not sure we were sampling it, this cell type overlaps quite well with the Inner Ear
 
+Also applies to the hypothalamus: 
+"In the anterior hypothalamus, Hmx2 and Hmx3 were principally expressed in the preoptic nucleus. Lower but significant levels of Hmx2 and Hmx3 expression were detected in the entire posterior hypothalamus with higher expression in the arcuate nucleus (ARN) and the lateral hypothalamic area"
+https://doi.org/10.1016/j.devcel.2004.06.016
+
 
 [http://dx.doi.org/10.1016/j.ydbio.2009.12.028] Pivotal role of hmx2 and hmx3 in zebrafish inner ear and lateral line development. "In zebrafish, both the inner ear and lateral line sensory organs are derived from cranial placodes at the hindbrain level as a local thickening of the ectoderm at early somite stages"
 
@@ -27,3 +31,4 @@ Even if I am not sure we were sampling it, this cell type overlaps quite well wi
 Other markers:
 
 Hoxa4, Pou4f2, Gbx2,  Etv1
+
