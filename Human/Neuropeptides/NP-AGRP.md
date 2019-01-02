@@ -1,6 +1,6 @@
 name: Agouti-related peptide 
-abbreviation: @AGRP 
-definition: +Agrp +Npy 
+abbreviation: NP-AGRP 
+definition: +AGRP 
 categories: Ectodermal Neuronal Neuroectodermal version: 1
 ---
 
