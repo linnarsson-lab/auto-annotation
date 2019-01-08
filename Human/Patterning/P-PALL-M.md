@@ -1,6 +1,6 @@
-name: Postmitotic neurons of the pallium
-abbreviation: P-PALLIUM
-definition: +EMX1
+name: Radial glia and neurons of the medial pallium
+abbreviation: P-PALL-M
+definition: +EMX1 +LEF1
 go:
 shogoin: 
 uberon: 

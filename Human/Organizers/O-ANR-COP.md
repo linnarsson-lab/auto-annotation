@@ -15,6 +15,9 @@ Justification:
 
 NOTE: annotation transferred from mouse. It's doubtful if the commissural plate even exists as a molecular entity in human.
 
+Very good overview figures in this paper:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4094842/pdf/fnhum-08-00497.pdf
+
 Takes the name of Anterior Neural Ridge (ANR) early when the neaural tube is open or Comissural Plate (CoP) later
 
 [http://dx.doi.org/10.1016/B978-0-12-397265-1.00021-6] The initial, tangential gradients of transcription factors (TFs) in the ventricular zone (VZ) are established by signaling molecules/morphogens secreted from telencephalic patterning centers, such as Fgf8 and Fgf17 from the anterior neural ridge (ANR), which later becomes the commissural plate (CoP)

@@ -1,6 +1,6 @@
 name: Erythrocyte (mesoderm)
 abbreviation: M-ERY
-definition: +HBA1
+definition: +HBA1 +HBA2 +HBB +HBG1 +HBG2
 go:
 shogoin: 
 uberon:
