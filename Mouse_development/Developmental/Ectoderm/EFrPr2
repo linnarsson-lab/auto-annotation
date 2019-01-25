@@ -1,0 +1,14 @@
+name: Early forebrain progentiors type 2
+abbreviation: EFrPr2
+definition: +Nsg2 +Nkx2-9 +Ptch1 -Robo3
+go:
+shogoin: 
+uberon:
+categories: Forebrain Ectodermal Neuronal Neuroectodermal Radialglialike
+version: 1
+synonyms:
+---
+
+Early forebrain progentiors type 2
+
+Justification:
