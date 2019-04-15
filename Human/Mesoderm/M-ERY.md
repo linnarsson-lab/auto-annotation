@@ -1,6 +1,6 @@
 name: Erythrocyte (mesoderm)
 abbreviation: M-ERY
-definition: +HBA1 +HBA2 +HBB +HBG1 +HBG2
+definition: +HBG1
 go:
 shogoin: 
 uberon:
@@ -9,3 +9,4 @@ version: 1
 synonyms:
 ---
 
+HBG1 looks like the most sensitive and specific when evaluated on the pooled data

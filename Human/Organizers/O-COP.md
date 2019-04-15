@@ -1,5 +1,5 @@
 name: Commissural Plate
-abbreviation: O-ANR-COP
+abbreviation: O-COP
 definition: +FGF8 +FGF18 +FGF17
 go:
 shogoin: 
