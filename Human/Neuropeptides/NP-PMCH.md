@@ -1,7 +1,8 @@
 name: Pro-melanin concentrating hormone 
 abbreviation: NP-PMCH 
 definition: +PMCH 
-categories: Ectodermal Neuronal Neuroectodermal version: 1
+categories: Ectodermal Neuronal Neuroectodermal
+version: 1
 ---
 
 Cells releasing pro-melanin concentrating hormone

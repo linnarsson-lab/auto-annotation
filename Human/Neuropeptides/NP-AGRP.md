@@ -1,7 +1,8 @@
 name: Agouti-related peptide 
 abbreviation: NP-AGRP 
 definition: +AGRP 
-categories: Ectodermal Neuronal Neuroectodermal version: 1
+categories: Ectodermal Neuronal Neuroectodermal
+version: 1
 ---
 
 Cells releasing Agouti-related peptide
