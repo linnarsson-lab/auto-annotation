@@ -1,5 +1,5 @@
 name: X inactivation
-abbreviation: @XIN
+abbreviation: "@XIN"
 definition: +Xist +Tsix
 categories: Female
 go:

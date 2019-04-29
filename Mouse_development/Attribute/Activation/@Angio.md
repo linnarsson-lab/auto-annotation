@@ -1,5 +1,5 @@
 name: Angiogenesis activation
-abbreviation: @Angio
+abbreviation: "@Angio"
 definition: +Gkn3 +Sema3g
 go:
 shogoin: 

@@ -1,5 +1,5 @@
 name: Claudins
-abbreviation: @Cldn
+abbreviation: "@Cldn"
 definition: +Cldn3 +Cldn4 +Cldn6 +Cldn7
 go:
 shogoin: 

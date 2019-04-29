@@ -1,5 +1,5 @@
 name: Caudal Hox Genes 
-abbreviation: @HoxCaud
+abbreviation: "@HoxCaud"
 definition: +Hoxa7 +Hoxb9 +Hoxc8 +Hoxa9
 go:
 shogoin: 

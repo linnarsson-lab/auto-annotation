@@ -1,5 +1,5 @@
 name: Early Spinal Cord 
-abbreviation: @SpnlC
+abbreviation: "@SpnlC"
 definition: +Sfrp5 +Cpn1 +1700011H14Rik
 go:
 shogoin: 

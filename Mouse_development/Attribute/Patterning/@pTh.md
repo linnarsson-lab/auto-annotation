@@ -1,5 +1,5 @@
 name: Prethalamus and Posterior Pallium
-abbreviation: @pTh
+abbreviation: "@pTh"
 definition: +Rspo2 +Rspo3 +Wnt7b +Wnt8b
 go:
 shogoin: 

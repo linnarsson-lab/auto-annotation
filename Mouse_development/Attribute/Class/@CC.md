@@ -1,5 +1,5 @@
 name: Cell cycle
-abbreviation: @CC
+abbreviation: "@CC"
 definition: +Cdk1 +Top2a +Cenpf
 go:
 shogoin: 

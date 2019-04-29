@@ -1,5 +1,5 @@
 name: Vasopressin
-abbreviation: @AVP
+abbreviation: "@AVP"
 definition: +Avp +Ebf3
 categories: Ectodermal Neuronal Neuroectodermal
 version: 1

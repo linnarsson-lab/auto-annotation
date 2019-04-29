@@ -1,5 +1,5 @@
 name: Blood Mononuclear system cell
-abbreviation: @BMono
+abbreviation: "@BMono"
 definition: +Fcer1g +C1qb
 go:
 shogoin: 

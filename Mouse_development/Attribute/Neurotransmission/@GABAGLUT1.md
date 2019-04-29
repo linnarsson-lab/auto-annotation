@@ -1,5 +1,5 @@
 name: GABAergic and Glutamatergic VGLUT1
-abbreviation: @GABAGLUT1
+abbreviation: "@GABAGLUT1"
 definition: +Gad2 +Slc32a1 -Slc6a5 +Slc17a7
 go:
 shogoin: 

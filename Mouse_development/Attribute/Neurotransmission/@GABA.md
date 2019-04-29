@@ -1,5 +1,5 @@
 name: GABAergic
-abbreviation: @GABA
+abbreviation: "@GABA"
 definition: +Gad2 +Slc32a1 -Slc6a5
 go: 0051932 (synaptic transmission, GABAergic)
 shogoin: 

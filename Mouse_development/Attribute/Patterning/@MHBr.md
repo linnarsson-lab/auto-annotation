@@ -1,5 +1,5 @@
 name: Midbrain-Hindbrain boundary rostral
-abbreviation: @MHBr
+abbreviation: "@MHBr"
 definition: +Otx2 +En1 +Pax5 +Hes3 -Fgf17
 go:
 shogoin: 

@@ -1,5 +1,5 @@
 name: Midbrain-Hindbrain boundary wide area
-abbreviation: @MHBw
+abbreviation: "@MHBw"
 definition: +En1 +Pax2 +Pax5 +Pax8
 go:
 shogoin: 

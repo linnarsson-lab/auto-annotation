@@ -1,5 +1,5 @@
 name: Posterior dorsal Midbrain
-abbreviation: @PMid
+abbreviation: "@PMid"
 definition: +Tfap2d +Pou4f3
 go:
 shogoin: 

@@ -1,5 +1,5 @@
 name: Alar Thalamus
-abbreviation: @p2AL
+abbreviation: "@p2AL"
 definition: +Irx5 +Irx3 +Tal2 -Wnt8b -Rspo2 -Dlx5 -Nkx2-9 -Trh
 go:
 shogoin: 

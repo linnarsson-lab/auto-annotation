@@ -1,5 +1,5 @@
 name: Caudal Hindbrain and Cervical Spinal Cord
-abbreviation: @CHind
+abbreviation: "@CHind"
 definition: +Skor1 +Lbx1 +Pax2 +Tfap2a
 go:
 shogoin: 

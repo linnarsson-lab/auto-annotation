@@ -1,5 +1,5 @@
 name: Roof plate of Thalamus
-abbreviation: @p2RP
+abbreviation: "@p2RP"
 definition: +Shox2 +Olig3 +Tcf7l2 +Barhl2
 go:
 shogoin: 

@@ -1,5 +1,5 @@
 name: Commissural Plate
-abbreviation: @CoP
+abbreviation: "@CoP"
 definition: +Fgf8 +Fgf18 +Fgf17
 go:
 shogoin: 

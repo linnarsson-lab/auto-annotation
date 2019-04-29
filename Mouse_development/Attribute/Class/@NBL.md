@@ -1,5 +1,5 @@
 name: Neuroblast
-abbreviation: @NBL
+abbreviation: "@NBL"
 definition: +Igfbpl1
 go:
 shogoin: 

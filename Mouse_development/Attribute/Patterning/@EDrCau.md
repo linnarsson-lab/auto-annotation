@@ -1,5 +1,5 @@
 name: Early Dorsal Hindbrain and Spinal Cord
-abbreviation: @EDrCau
+abbreviation: "@EDrCau"
 definition: +Msx3 +Msx1 +Msx2
 go:
 shogoin: 

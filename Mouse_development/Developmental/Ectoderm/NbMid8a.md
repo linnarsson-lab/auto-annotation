@@ -1,7 +1,7 @@
 name: Neuroblast Midbrain type 8 subtype a
 abbreviation: NbMid8a
 definition: +Neurod2 +Nxph4 +Ebf2 +Neurod6 +Glra2
-related: @CHind Glyc-Skor1 CB-MLI
+related: "@CHind Glyc-Skor1 CB-MLI"
 categories: Ectodermal Neuronal Neuroectodermal Neuroblast
 version: 2
 synonyms:

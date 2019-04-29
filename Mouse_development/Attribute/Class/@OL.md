@@ -1,5 +1,5 @@
 name: Oligodendrocyte lineage
-abbreviation: @OL
+abbreviation: "@OL"
 definition: +Sox10 +Plp1 +Mog
 go:
 shogoin: 

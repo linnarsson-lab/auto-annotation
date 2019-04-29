@@ -1,5 +1,5 @@
 name: Rhombomeres r3 r5 
-abbreviation: @Hr2Sc
+abbreviation: "@Hr2Sc"
 definition: +Nkx2-9 +Tgfb2 +Foxa2
 go:
 shogoin: 

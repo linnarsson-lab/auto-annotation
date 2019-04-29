@@ -1,5 +1,5 @@
 name: Dorsal (rostral) Midbrain and other regions
-abbreviation: @DMid
+abbreviation: "@DMid"
 definition: +Sox14 +Asic4
 go:
 shogoin: 

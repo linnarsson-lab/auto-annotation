@@ -1,5 +1,5 @@
 name: Oxytocin
-abbreviation: @OXT
+abbreviation: "@OXT"
 definition: +Oxt +Lhx2
 categories: Ectodermal Neuronal Neuroectodermal
 version: 1

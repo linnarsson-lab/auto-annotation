@@ -1,5 +1,5 @@
 name: Glutamatergic 3
-abbreviation: @VGLUT3
+abbreviation: "@VGLUT3"
 definition: +Slc17a8
 go:
 shogoin: 

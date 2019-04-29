@@ -1,5 +1,5 @@
 name: Neuronal intermediate progenitor cell
-abbreviation: @NIPC
+abbreviation: "@NIPC"
 definition: +Eomes
 go:
 shogoin: 

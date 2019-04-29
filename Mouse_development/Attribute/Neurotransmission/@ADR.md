@@ -1,5 +1,5 @@
 name: Adrenergic
-abbreviation: @ADR
+abbreviation: "ADR"
 definition: +Dbh +Ddc +Th +Pnmt
 categories: Ectodermal Neuronal Neuroectodermal
 version: 1

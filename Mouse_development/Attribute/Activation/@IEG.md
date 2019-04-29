@@ -1,5 +1,5 @@
 name: Immediate early gene activation
-abbreviation: @IEG
+abbreviation: "@IEG"
 definition: +Fos +Jun +Egr1
 go:
 shogoin: 

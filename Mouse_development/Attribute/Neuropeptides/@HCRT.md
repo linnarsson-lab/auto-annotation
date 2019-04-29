@@ -1,7 +1,8 @@
 name: Orexin-releasing hormone 
-abbreviation: @HCRT 
+abbreviation: "@HCRT"
 definition: +Hcrt 
-categories: Ectodermal Neuronal Neuroectodermal version: 1
+categories: Ectodermal Neuronal Neuroectodermal
+version: 1
 ---
 
 Cells releasing Orexin/hypocretin

@@ -1,5 +1,5 @@
 name: Mesenchymal cell
-abbreviation: @Msn
+abbreviation: "@Msn"
 definition: +Twist2 +Foxc1
 go:
 shogoin: 

@@ -1,5 +1,5 @@
 name: Developing Diencephalon
-abbreviation: @Dienc
+abbreviation: "@Dienc"
 definition: +Emx2 +Barhl2 +Pax6 -Robo3
 go:
 shogoin: 

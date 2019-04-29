@@ -1,5 +1,5 @@
 name: Hindbrain rombomere 4 
-abbreviation: @HCNv
+abbreviation: "@HCNv"
 definition: +Vgll3 +Fst +Hoxb1
 go:
 shogoin: 

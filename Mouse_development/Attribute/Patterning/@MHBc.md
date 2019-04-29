@@ -1,5 +1,5 @@
 name: Midbrain-Hindbrain boundary caudal
-abbreviation: @MHBc
+abbreviation: "@MHBc"
 definition: +Fgf17 +En1 +Pax5 +Hes3 -Otx2
 go:
 shogoin: 
