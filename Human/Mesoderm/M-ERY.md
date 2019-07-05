@@ -10,3 +10,4 @@ synonyms:
 ---
 
 HBG1 looks like the most sensitive and specific when evaluated on the pooled data
+#+HBZ +ALAS2 +HBM

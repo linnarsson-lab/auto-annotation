@@ -1,11 +1,9 @@
-name: Microglia (mesoderm)
-abbreviation: M-MGL
-definition: +AIF1 +HEXB
-go:
+name: Microglia (mesoderm) 
+abbreviation: M-MGL 
+definition: +AIF1 +HEXB 
+go: 
 shogoin: 
-uberon:
-categories: Endomesodermal
-version: 1
+uberon: 
+categories: Endomesodermal 
+version: 1 
 synonyms:
----
-
