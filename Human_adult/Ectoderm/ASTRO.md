@@ -4,7 +4,7 @@ definition: +AQP4 +GJA1 +GLI3 +LAMA1
 go:
 shogoin: 
 uberon:
-categories: Ectodermal Neuroectodermal
+categories: Ectodermal Neuroectodermal Glial
 version: 1
 synonyms:
 ---

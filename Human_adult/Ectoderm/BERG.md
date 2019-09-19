@@ -4,7 +4,7 @@ definition: +AQP4 +GDF10 +GABRG3 +WIF1 +LGR6
 go:
 shogoin: 
 uberon:
-categories: Ectodermal Neuroectodermal
+categories: Ectodermal Neuroectodermal Glial
 version: 1
 synonyms:
 ---

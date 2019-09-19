@@ -4,7 +4,7 @@ definition: +RBFOX3
 go:
 shogoin: 
 uberon:
-categories: Ectodermal Neuronal Neuroectodermal
+categories: Ectodermal Neuroectodermal Neuronal
 version: 1
 synonyms:
 ---

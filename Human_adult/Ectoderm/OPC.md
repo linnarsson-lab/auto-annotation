@@ -4,7 +4,7 @@ definition: +SOX10 +PDGFRA
 go:
 shogoin: 
 uberon:
-categories: Ectodermal Neuroectodermal
+categories: Ectodermal Neuroectodermal Glial
 version: 1
 synonyms:
 ---
