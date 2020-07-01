@@ -9,11 +9,6 @@ synonyms:
 
 Neuroblast Midbrain type 10
 
-Justification:
-
-
-AllenBrain:
-
 
 Other markers: 
 Rbp1

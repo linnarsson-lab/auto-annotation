@@ -9,7 +9,7 @@ version: 2
 synonyms:
 ---
 
-Neuroblast of the Midbrain type 3 (COmmissural/juxtacomissural pretectal domain)
+Neuroblast of the Midbrain type 3 (Commissural/juxtacomissural pretectal domain)
 
 Justification:
 Lmo3 [http://developingmouse.brain-map.org/experiment/show/100047600]

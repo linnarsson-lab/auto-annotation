@@ -13,16 +13,8 @@ Tectal gray formation (Dorsal Midbrain) Gabaergic Neuroblast type 2
 
 Justification:
 
-
-Wiki:
-search: Nxph1 Tfap2b Pax7
-found:
-MEINH7 (#148 in L5)
-MEINH2 (#218 in L5)
-MEINH3 (#220 in L5)
-search: Nxph1 Tfap2b Sox14 Emx2
-found:
-MEINH2 (#218 in L5)
+Nxph1 Tfap2b Pax7 -> Adolescent MEINH7 (#148 in L5) MEINH2 (#218 in L5) MEINH3 (#220 in L5)
+Nxph1 Tfap2b Sox14 Emx2 -> Adolescent MEINH2 (#218 in L5)
 
 Other markers:
 Dact2

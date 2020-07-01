@@ -11,7 +11,7 @@ Neuroblast of V2b interneurons (found in the hindbrain)
 
 Justification:
 
-[doi:  10.1186/1749-8104-9-14] Transcriptional control of GABAergic neuronal subtype identity in the thalamus
+[https://doi.org/10.1186/1749-8104-9-14] Transcriptional control of GABAergic neuronal subtype identity in the thalamus
 
 Most nonTRN GABA neurons develop from a progenitor type in the rostral part of the thalamus.
 Third, we report that Sox14, a post mitotic transcription factor expressed in the rTh, is necessary and sufficient to confer some nonTRN GABA neuron subtype features.

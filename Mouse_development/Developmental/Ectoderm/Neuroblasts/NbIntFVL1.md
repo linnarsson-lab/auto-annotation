@@ -5,9 +5,7 @@ related:  NbIntFVL2
 categories: Ectodermal Neuronal Neuroectodermal
 ---
 
-Justification:
-
-found in Forebrain ventrolateral E16-18 @GABA
+Forebrain ventrolateral gabaergic neuroblast 1
 
 Also expresses:
 Vsnl1

@@ -9,12 +9,7 @@ synonyms:
 
 Neuroblast excitatory of V2 (found in the hindbrain)
 
-Justification:
-
-It could be exactly the same as NbIntV2a and NbIntV2b this needs to be checked
-
-Notice: Vsx2 is commonly known referred to as Chx10
-
+Vsx2 is commonly referred in the literature as Chx10
 
 
 Other markers:

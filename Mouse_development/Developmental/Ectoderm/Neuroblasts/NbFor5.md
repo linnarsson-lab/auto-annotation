@@ -5,17 +5,10 @@ related:
 categories: Ectodermal Neuronal Neuroectodermal
 ---
 
-Justification:
 
-wiki: Lmo3 Grm5 Nrp2 Id4 Dab1 Runx1t1
-returns TEGLU18, TEGLU19
-Both expressed in anterior olfactory nucleus
+Other markers:
+Lmo3 Grm5 Nrp2 Id4 Dab1 Runx1t1
 
-Cluster found in forebrain ventrolateral E16-18
-Seems to contain only E16 cells
 
 Also expresses:
-Uba52
-Tmeff2
-Plxna4
-Dab1
+Uba52, Tmeff2, Plxna4, Dab1

@@ -11,9 +11,6 @@ synonyms:
 
 Neuroblast of the Midbrain type 1
 
-Justification:
-
-Difficoult to determine the location.
-somewhere in the rostral midbrain / caudal (p1) diencephalon
+Localized in the rostral midbrain / caudal (p1) diencephalon
 [http://developingmouse.brain-map.org/experiment/show/100059083]
 [http://developingmouse.brain-map.org/experiment/show/100046340]

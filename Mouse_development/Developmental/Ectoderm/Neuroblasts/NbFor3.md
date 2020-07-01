@@ -4,10 +4,7 @@ definition: +Tshz2 +Egfem1 +Cck +Fbn2
 categories: Ectodermal Neuronal Neuroectodermal
 ---
 
-Justification:
-
-found in Forebrain dorsal E16-18
-clustered near excitatory types in "Exclude" punchcard
+Forebrain neuroblast type 3
 
 Also expresses:
 Itpr1

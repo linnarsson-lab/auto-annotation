@@ -10,11 +10,6 @@ synonyms:
 Neuroblast Midbrain type 11
 
 Justification:
-
-It is located the superficial stratum of the colliculus (Midbrain dorsal)
-
--Meis2
-
 AllenBrain:
 Fibcd1
 [http://developingmouse.brain-map.org/experiment/ivt?id=100041761,100077817,100085208&popup=true]
@@ -24,6 +19,11 @@ Irx2
 [http://developingmouse.brain-map.org/experiment/ivt?id=100056789,100058520,100083396&popup=true]
 Irx1
 [http://developingmouse.brain-map.org/experiment/ivt?id=100029087,100030621,100085331&popup=true]
+
+
+It is located the superficial stratum of the colliculus (Midbrain dorsal)
+
+Note: -Meis2
 
 Other markers: 
 Cdh12

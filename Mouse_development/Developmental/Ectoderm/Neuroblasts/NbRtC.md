@@ -8,9 +8,7 @@ Reticular Complex Neuroblasts
 
 Justification:
 
-Location is not sure but the overlap of Six3, Pa6 and Meis2 suggest Intrmediate stratume of the reticular complex, mantle zone (p3A, RtCi)
-Found in Forebrain Ventral dataset, similar type Found in the Non Dorsal Gabaergic Midbrain
-
+The overlap of Six3, Pa6 and Meis2 suggest Intrmediate striatum of the reticular complex, mantle zone (p3A, RtCi).
 
 Allen brain:
 Six3

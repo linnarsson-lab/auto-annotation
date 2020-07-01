@@ -8,7 +8,6 @@ Neuroblast Hindbrain type 5
 
 Justification:
 
-
 AllenBrain:
 Lmx1a (r1A rombomer 1 vestibular sensory column and in the histmic alar plate above the cerebllar area)
 [http://developingmouse.brain-map.org/experiment/show/100076539]

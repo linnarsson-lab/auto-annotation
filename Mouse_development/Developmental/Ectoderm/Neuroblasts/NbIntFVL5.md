@@ -5,10 +5,7 @@ related:
 categories: Ectodermal Neuronal Neuroectodermal
 ---
 
-Justification:
-
-found in Forebrain ventrolateral E16-18 @GABA
-All markers of NbIntFVL6 are expressed by NbIntFVL7
+Forebrain ventrolateral gabaergic neuroblast 5
 
 Also expresses:
 Nfia

@@ -6,10 +6,6 @@ categories: Ectodermal Neuronal Neuroectodermal
 
 Neuroblast Excitatory type 2
 
-Justification:
-
-NOTE: This should be disentangled from NbEx1, they might be the same things or this might be the neuron
-
 Other Markers:
 
 Uncx

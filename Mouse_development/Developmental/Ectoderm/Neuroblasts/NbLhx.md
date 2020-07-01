@@ -4,7 +4,8 @@ definition: +Lhx3 +Neurog1 +Neurod4
 categories: Ectodermal Neuronal Neuroectodermal
 ---
 
-Justification:
+Lhx positive neuroblast
 
-Also express Uncx, Rgs4, Cdhr1, Col16a1
+Also express:
+Uncx, Rgs4, Cdhr1, Col16a1
 

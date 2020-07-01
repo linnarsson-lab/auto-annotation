@@ -11,16 +11,7 @@ Neuroblast Midbrain type 7
 
 Justification:
 
-Looking in the allen brain there are 3 possible locations (probably in all tree):
-Posterior colliculum
-Retromammilary area
-Superficial cerebellar Emisphere
-
-So it is found in the midbrain dataset but it is very posterior
-
-This is based on the colocalization of the following:
-
-AllenBrain:
+Colocalization of the following genes:
 Nxph4
 [http://developingmouse.brain-map.org/experiment/show/100049530]
 Neurod2
@@ -30,6 +21,10 @@ Ebf2
 Skor1
 [http://developingmouse.brain-map.org/experiment/show/113105196]
 
+There are 3 possible locations (probably in all tree):
+Posterior colliculum
+Retromammilary area
+Superficial cerebellar Emisphere
 
 Other markers:
 Bhlhe22

@@ -17,18 +17,14 @@ Justification:
 Allen Brain:
 Localization of the markers in the superior and inferior colliculus. Stronger in the inferior colliculus.
 
-Note there is some stronger expression of Dmbx1 in the Cerebellar hemisphere
+Note: there is some stronger expression of Dmbx1 in the Cerebellar hemisphere
 
 Dmbx1 [http://developingmouse.brain-map.org/experiment/show/100076463]
 Sp5 [http://developingmouse.brain-map.org/experiment/show/113116512]
 
-Wiki:
-search: Trpm3 Sp5 Pdzd2 Dmbx1
-found:
-MEINH10 (both are dorsal midbrain interneurons of the superior colliculus)
-MEINH12 
+Trpm3 Sp5 Pdzd2 Dmbx1 -> Adolescent MEINH10, MEINH12 
 
-Other markers
+Other markers:
 Dmbx1
 Sp5
 Ptchd4

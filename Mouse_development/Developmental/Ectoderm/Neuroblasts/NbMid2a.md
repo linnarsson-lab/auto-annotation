@@ -11,9 +11,6 @@ synonyms:
 
 Neuroblast of the Midbrain type 2a
 
-Justification:
-
-See NbMid2
 
 Other Markers:
 Syndig1l

@@ -9,10 +9,6 @@ synonyms:
 
 Neuroblast of the Midbrain type 5
 
-Justification:
-
-Lhx2 is very high
-
-Other markers
+Other markers:
 Ppp1r14a
 Cntn2

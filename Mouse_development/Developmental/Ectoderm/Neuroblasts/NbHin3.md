@@ -8,7 +8,6 @@ Neuroblast Hindbrain type 3
 
 Justification:
 
-
 AllenBrain:
 Cyp26b1 (ventricular zone of the hindbrain, strong expression)
 [http://developingmouse.brain-map.org/experiment/show/100076550]

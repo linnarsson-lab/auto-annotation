@@ -17,7 +17,7 @@ Other Markers:
 
 Lhx2, Lhx9, Robo3, D930028M14Rik, Onecut1
 
-In an indipendent analusus I found:
+Also:
 Fstl5
 Gm28050
 Gm26872

@@ -8,13 +8,6 @@ version: 2
 
 Neuroblast Hindbrain type 6
 
-Justification:
-
-
-AllenBrain:
-TODO
-
-
 Other markers:
 Mfng
 Necab3

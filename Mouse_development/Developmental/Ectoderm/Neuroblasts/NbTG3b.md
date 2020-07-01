@@ -7,8 +7,5 @@ version: 2
 synonyms:
 ---
 
-Tectal gray formation Neuroblast type 3
+Tectal gray formation Neuroblast type 3b
 
-Justification:
-
-Tfap2b has a clear dorsal expression in the midbrain

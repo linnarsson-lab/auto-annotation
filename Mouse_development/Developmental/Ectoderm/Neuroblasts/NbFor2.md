@@ -11,11 +11,3 @@ synonyms:
 
 Excitatory Neuroblast found in Forebrain (type 2)
 
-Justification:
-
-Note, maybe it shoudl be splitted in 2 on the basis of the expression of: Neurod2 Neurod6 and Nrn1
-
-Allen brain:
-
-
-Other markers:

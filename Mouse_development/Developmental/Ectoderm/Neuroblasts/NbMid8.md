@@ -11,10 +11,9 @@ Neuroblast (inhibitory) Midbrain type 9
 
 Justification:
 
-Probably in the P1-P2 area
+Probably localized in the P1-P2 area
 
 AllenBrain:
-
 Cbln2 (rombomer5, juxtacomissural pretectal doamin, intermediate tier of thalamus)
 [http://developingmouse.brain-map.org/experiment/show/100076526]
 Tcf7l2 (rombomer4-5, all dorsal areas of p1 and p2 including j.p.d. and i.t.t., probably habenula)
@@ -25,7 +24,6 @@ Grin3a (p1b and p2b)
 [http://developingmouse.brain-map.org/experiment/show/100046295]
 
 Other markers:
-
 A230006K03Rik
 Opcml
 Adarb2

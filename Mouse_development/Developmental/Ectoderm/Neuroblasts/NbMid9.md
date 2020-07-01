@@ -9,11 +9,6 @@ synonyms:
 
 Neuroblast Midbrain type 9
 
-Justification:
-
-
-AllenBrain:
-
 
 Other markers: 
 2610027F03Rik

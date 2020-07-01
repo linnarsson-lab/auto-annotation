@@ -11,12 +11,11 @@ synonyms:
 
 Neuroblast of the Midbrain type 2
 
-Justification:
-Ndst4 [http://developingmouse.brain-map.org/experiment/show/100046515]
+
+Localization of Ndst4 [http://developingmouse.brain-map.org/experiment/show/100046515]
 
 
 Other markers:
-
 Cfap77
 Rarres1
 

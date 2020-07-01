@@ -11,8 +11,6 @@ synonyms:
 
 Neuroblast of the Midbrain type 5
 
-Justification:
-
 Other markers:
 Sim1
 Lhx5

@@ -8,12 +8,6 @@ version: 2
 
 Neuroblast Hindbrain type 7
 
-Justification:
-
-
-AllenBrain:
-TODO
-
 
 Other markers:
 Sstr2

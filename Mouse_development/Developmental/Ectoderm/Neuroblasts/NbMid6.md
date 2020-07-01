@@ -11,8 +11,3 @@ synonyms:
 
 Neuroblast Midbrain type 6
 
-Justification:
-
-
-
-Other markers:

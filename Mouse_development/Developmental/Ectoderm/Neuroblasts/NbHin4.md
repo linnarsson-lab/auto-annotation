@@ -8,7 +8,6 @@ Neuroblast Hindbrain type 4
 
 Justification:
 
-
 AllenBrain:
 Tlx1 (hindbrain superficial stratum of rombomers 3 to 6, maybe earlier also in trigeminal ganglium)
 [http://developingmouse.brain-map.org/experiment/show/100054405]

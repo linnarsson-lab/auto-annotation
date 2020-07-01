@@ -11,8 +11,6 @@ Neuroblast Hindrain 2
 
 Justification:
 
-Found in the hinbrain dataset, rather small population
-
 Allenbrain
 Lhx9, at low levels everywhere and high level in the colliculus, that should be NbHin2)
 [http://developingmouse.brain-map.org/experiment/show/100031949]

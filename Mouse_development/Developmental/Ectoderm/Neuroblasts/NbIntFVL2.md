@@ -5,10 +5,7 @@ related: NbIntFVL1
 categories: Ectodermal Neuronal Neuroectodermal
 ---
 
-Justification:
-
-found in Forebrain ventrolateral E16-18 @GABA
-Markers of this cluster are also expressed in NbIntFVL1
+Forebrain ventrolateral gabaergic neuroblast 2
 
 Also expresses:
 Resp18
