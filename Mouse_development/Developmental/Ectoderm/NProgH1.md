@@ -10,9 +10,3 @@ synonyms:
 ---
 
 Neural Progenitors Hindbrain 1
-
-Justification:
-
-The name is a bit arbitrary
-
-Vsx1 is homologue to Vsx2(Chx10)

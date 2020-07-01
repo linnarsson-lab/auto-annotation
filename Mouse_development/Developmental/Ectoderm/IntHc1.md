@@ -6,10 +6,6 @@ categories: Ectodermal Neuronal Neuroectodermal
 
 Developmental Interneuron hippocampus-like type 1
 
-Justification:
-
-Similarity with adult tipes
-
 Other markers:
 Slc32a1
 Erbb4

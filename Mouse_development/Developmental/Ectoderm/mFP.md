@@ -9,11 +9,10 @@ version:
 synonyms:
 ---
 
-midbrain floor plate radial glia can generate neurons
-some cells express Wnt1 and Th
+Midbrain floor plate
 
-How to make a midbrain dopaminergic neuron
-http://dev.biologists.org/content/142/11/1918
+[http://dev.biologists.org/content/142/11/1918] How to make a midbrain dopaminergic neuron
+
 
 
 

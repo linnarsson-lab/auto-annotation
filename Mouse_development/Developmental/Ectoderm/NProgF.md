@@ -14,5 +14,4 @@ Neuronal Progenitors of the (ventral) Telencephalon of the Subventricular zone (
 Justification:
 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2039927/#R37] Dlx1 and Dlx2 control neuronal versus oligodendroglial cell fate acquisition in the developing forebrain.
-The paper gives also a nice mechanicistic view.
 

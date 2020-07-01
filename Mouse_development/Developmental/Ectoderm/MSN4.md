@@ -7,14 +7,9 @@ categories: Ectodermal Neuronal Neuroectodermal
 
 Immature
 
-justification: 
-wiki: isl1 ptprg zfp804a zfp503 Pou3f1
-D1 medium spiny neurons, striatum
+Justification: 
 
-Note that adding Dcc to wiki search returns no results,
-also does not yet express top MSN4 markers
-
-Contiguous with MSN1 cluster on the tSNE
+isl1 ptprg zfp804a zfp503 Pou3f1 -> D1 medium spiny neurons, striatum
 
 Also expresses:
 Dcc

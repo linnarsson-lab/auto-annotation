@@ -6,9 +6,6 @@ categories: Ectodermal Neuronal Neuroectodermal
 
 Developmental Interneuron midbrain type 2
 
-Justification:
-
-
 Other markers:
 Sp9
 Nfia

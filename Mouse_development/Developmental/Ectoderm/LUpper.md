@@ -9,8 +9,9 @@ version:
 synonyms:
 ---
 
+A broad annotation for a Upper layer cortical neuron signature
+
 Justification:
 
-"Satb2 Is a Postmitotic Determinant for Upper-Layer Neuron Specification in the Neocortex"
-Britanova et al., Neuron 2008
+[https://pubmed.ncbi.nlm.nih.gov/18255031/] "Satb2 Is a Postmitotic Determinant for Upper-Layer Neuron Specification in the Neocortex"
 

@@ -6,11 +6,8 @@ categories: Ectodermal Neuronal Neuroectodermal
 
 Developmental Interneuron forebrain ventral type 1
 
-Justification:
+Note: It also expresses Slc32a1 (Glycinergic)
 
-Notice it also expresses Slc32a1 (Glycinergic)
-
-Similar to some DEINH and TEINH
 
 Other markers:
 Gbx1

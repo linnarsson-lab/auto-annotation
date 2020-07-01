@@ -8,7 +8,7 @@ Developmental Interneuron hindbrain type 1
 
 Justification:
 
-Similarity with adult tipe HBINH5 and location
+Similarity with adult type HBINH5
 
 Other markers:
 Gm26793

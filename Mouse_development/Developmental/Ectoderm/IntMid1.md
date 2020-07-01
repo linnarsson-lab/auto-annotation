@@ -6,9 +6,6 @@ categories: Ectodermal Neuronal Neuroectodermal
 
 Developmental Interneuron midbrain type 1
 
-Justification:
-
-
 Other markers:
 Gria3
 Maf

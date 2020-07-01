@@ -9,7 +9,5 @@ synonyms:
 
 Radialglia 3 according La Manno Gyllborg
 
-Justification:
-
 Other markers:
 Cd36

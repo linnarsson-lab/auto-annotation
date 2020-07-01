@@ -5,7 +5,4 @@ related: NIPC NIPC1
 categories: Ectodermal Neuroectodermal Neuronal
 ---
 
-Justification:
-
-Cluster annotated as NIPC in Forebrain Dorsal E16-18
-Added Sema3c to NIPC annotation
+Neuronal intermediate progenitor cell

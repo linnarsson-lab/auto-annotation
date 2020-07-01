@@ -13,31 +13,19 @@ Neural Progenitors Cerebellar Vermis (pc2) in the Hindbrain
 
 Justification:
 
-The name is a bit arbitrary
+[http://developingmouse.brain-map.org/experiment/show/100098141] Ptf1a localization
 
-For locating it I used:
-[http://developingmouse.brain-map.org/experiment/show/100098141] Ptf1a 
+The gene is involved in cerebellar development:
+[https://doi.org/10.1038/ng1475] Mutations in PTF1A cause pancreatic and cerebellar agenesis.
 
-And I got confirmation that is involved in cerebellar development here:
+[https://doi.org/10.1155/2012/921732] GABAergic Neuron Specification in the Spinal Cord, the Cerebellum, and the Cochlear Nucleus
 
-[DOI: 10.1038/ng1475] Mutations in PTF1A cause pancreatic and cerebellar agenesis.
-
-Apparently this is well known
-
-[DOI10.1155/2012/921732] GABAergic Neuron Specification in the Spinal Cord, the Cerebellum, and the Cochlear Nucleus
-
-[https://www.researchgate.net/publication/230566310_GABAergic_Neuron_Specification_in_the_Spinal_Cord_the_Cerebellum_and_the_Cochlear_Nucleus/figures] This is a cartoon 
-
+[https://www.researchgate.net/publication/230566310_GABAergic_Neuron_Specification_in_the_Spinal_Cord_the_Cerebellum_and_the_Cochlear_Nucleus/figures] 
 
 The pc2 is the Ptf1a-expressing neuroepithelial domain that generates all types of GABAergic cerebellar neurons
 
+[https://doi.org/10.1523/JNEUROSCI.0479-11.2011] Moreover, a recent genetic fate mapping study using Ascl1CreER-knock-in mice showed that minor cerebellar GABAergic neurons, such as Lugaro and candelabrum cells, are also derived from the cerebellar VZ 
 
-Moreover, a recent genetic fate mapping study using Ascl1CreER-knock-in mice showed that minor cerebellar GABAergic neurons, such as Lugaro and candelabrum cells, are also derived from the cerebellar VZ [DOI: 10.1523/JNEUROSCI.0479-11.2011]
-
-
-An interesting thing is that 
-
-Kirrel2 has been caracterized also in Pancreas whose development is controlled by Ptf1a!
 
 Other markers:
 Gsx1

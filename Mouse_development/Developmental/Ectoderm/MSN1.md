@@ -5,11 +5,8 @@ related: NbMSN1
 categories: Ectodermal Neuronal Neuroectodermal
 ---
 
-Immature
+Immature D1 medium spiny neurons, striatum
 
-justification: 
-Wiki: six3 sstr2 tle4 calb1 id4 zfhx4
-D1 medium spiny neurons, striatum
-Does not express the wiki's MSN1 marker genes
+Justification: 
 
-Contiguous with NbMSN1 cluster on the tSNE, does not express Adora2a
+six3 sstr2 tle4 calb1 id4 zfhx4 -> Adolescent D1 medium spiny neurons, striatum

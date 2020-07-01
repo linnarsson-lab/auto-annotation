@@ -9,9 +9,6 @@ synonyms:
 
 Midbrain Inhibitory Progenitors (Putative)
 
-Justification: 
-
-As quite early genes, no neuronal genes and from observation that it is branching in TSNE
 
 Other Markers
 Nrtn

@@ -5,7 +5,4 @@ related: NIPC NIPC2
 categories: Ectodermal Neuroectodermal Neuronal
 ---
 
-Justification:
-
-Cluster annotated as NIPC in Forebrain Dorsal E16-18
-
+Neuronal intermediate progenitor cell

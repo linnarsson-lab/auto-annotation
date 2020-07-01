@@ -9,7 +9,9 @@ version: 1
 synonyms:
 ---
 
-Neural Progenitors according to Pollen et al. 2015 and La Manno et al. 2016.
+Neural Progenitors
 
 Justification:
+According to Pollen et al. 2015 and La Manno et al. 2016.
+
 
