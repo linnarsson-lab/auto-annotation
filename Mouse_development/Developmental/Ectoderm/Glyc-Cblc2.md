@@ -8,6 +8,4 @@ Putative Gabaergic neurons cerebellar primordium area c2v
 
 Justification:
 
-I don't think this cell type is described in the literature 
-
-The review [DOI10.1155/2012/921732] contains some hints of its extistence.
+This cell type might have never been described in the literature but the review [https://doi.org/10.1155/2012/921732] contains some hints of its existence.
