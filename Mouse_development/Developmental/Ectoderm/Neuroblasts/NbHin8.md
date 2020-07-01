@@ -1,5 +1,5 @@
-name: Neuroblast Hindbrain gabaergic type 1
-abbreviation: NbHind1
+name: Neuroblast Hindbrain gabaergic type 8
+abbreviation: NbHind8
 definition: +Lypd1 +Wnt7b +Vstm2b
 related:
 categories: Ectodermal Neuronal Neuroectodermal Neuroblast
@@ -7,7 +7,7 @@ version: 2
 synonyms:
 ---
 
-Neuroblast Hindbrain type 1 (gabaergic)
+Neuroblast Hindbrain type 8 (gabaergic)
 
 Justification:
 

@@ -1,12 +1,12 @@
-name: Neuroblast Hindbrain type 7
-abbreviation: NbHin7
+name: Neuroblast Hindbrain type 6
+abbreviation: NbHin6
 definition: +Gng8 +Evx1os +Pdzrn3 +Neurod6
 related: HinEx4
 categories: Ectodermal Neuronal Neuroectodermal
 version: 2
 ---
 
-Neuroblast Hindbrain type 7
+Neuroblast Hindbrain type 6
 
 Justification:
 

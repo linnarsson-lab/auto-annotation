@@ -1,10 +1,10 @@
-name: Neuroblast Hindbrain type 6
-abbreviation: NbHin6
+name: Neuroblast Hindbrain type 5
+abbreviation: NbHin5
 definition: +Lmx1a +Tfap2b +Irx3 +Mast4
 categories: Ectodermal Neuronal Neuroectodermal
 ---
 
-Neuroblast Hindbrain type 6
+Neuroblast Hindbrain type 5
 
 Justification:
 

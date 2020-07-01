@@ -1,13 +1,13 @@
-name: Neuroblast Hindrain 3
-abbreviation: NbHin3
+name: Neuroblast Hindrain 2
+abbreviation: NbHin2
 definition: +Syt13 +C1ql3 +Nr4a2
-related: NbMid14
+related: 
 categories: Ectodermal Neuronal Neuroectodermal
 version: 2
 synonyms:
 ---
 
-Neuroblast Hindrain 3, seems similar to NbMid14
+Neuroblast Hindrain 2
 
 Justification:
 

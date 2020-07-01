@@ -1,10 +1,10 @@
-name: Neuroblast Hindbrain type 4
-abbreviation: NbHin4
+name: Neuroblast Hindbrain type 3
+abbreviation: NbHin3
 definition: +Phox2b +Pcp4 +Phox2a +Tlx3 +Shox2
 categories: Ectodermal Neuronal Neuroectodermal
 ---
 
-Neuroblast Hindbrain type 4
+Neuroblast Hindbrain type 3
 
 Justification:
 

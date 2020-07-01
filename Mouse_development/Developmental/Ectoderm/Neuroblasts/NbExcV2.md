@@ -11,7 +11,7 @@ Neuroblast excitatory of V2 (found in the hindbrain)
 
 Justification:
 
-It could be exaxtly the same as NbIntV2a and NbIntV2b this needs to be checked
+It could be exactly the same as NbIntV2a and NbIntV2b this needs to be checked
 
 Notice: Vsx2 is commonly known referred to as Chx10
 

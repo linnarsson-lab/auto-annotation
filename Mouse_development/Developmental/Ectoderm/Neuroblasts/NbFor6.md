@@ -1,5 +1,5 @@
-name: Forebrain neuroblast type 10
-abbreviation: NbFor10
+name: Forebrain neuroblast type 6
+abbreviation: NbFor6
 definition: +Tfap2d +Sstr2 +Sema3c +Neurod6 +Tbr1 -Tfap2e
 categories: Ectodermal Neuronal Neuroectodermal
 ---

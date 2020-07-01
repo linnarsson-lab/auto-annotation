@@ -1,5 +1,5 @@
-name: Neuroblast Hindbrain type 8
-abbreviation: NbHin8
+name: Neuroblast Hindbrain type 7
+abbreviation: NbHin7
 definition: +Rassf4 +Atoh1 +Cd9
 related: HinEx4
 categories: Ectodermal Neuronal Neuroectodermal

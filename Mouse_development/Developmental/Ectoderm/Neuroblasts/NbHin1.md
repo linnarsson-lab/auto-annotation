@@ -1,5 +1,5 @@
-name: Neuroblast Hindrain 2
-abbreviation: NbHin2
+name: Neuroblast Hindrain 1
+abbreviation: NbHin1
 definition: +Tfap2d +Fzd1 +Cnpy1 +Lhx2 
 go:
 shogoin: 
@@ -9,7 +9,7 @@ version: 2
 synonyms:
 ---
 
-Neuroblast Hindrain 2
+Neuroblast Hindrain 1
 
 Justification:
 

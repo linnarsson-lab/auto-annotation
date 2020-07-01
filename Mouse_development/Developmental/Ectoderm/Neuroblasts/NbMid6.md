@@ -1,5 +1,5 @@
-name: Neuroblast Midbrain type 7
-abbreviation: NbMid7
+name: Neuroblast Midbrain type 6
+abbreviation: NbMid6
 definition: +Lhx1 +Pax6 +Synpr +Barhl2
 go:
 shogoin: 
@@ -9,7 +9,7 @@ version: 2
 synonyms:
 ---
 
-Neuroblast Midbrain type 7
+Neuroblast Midbrain type 6
 
 Justification:
 

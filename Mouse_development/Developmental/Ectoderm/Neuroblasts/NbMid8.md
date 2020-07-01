@@ -1,5 +1,5 @@
-name: Neuroblast Midbrain type 9
-abbreviation: NbMid9
+name: Neuroblast Midbrain type 8
+abbreviation: NbMid8
 definition: +Nr4a2 +Tcf7l2 +Cbln2 +Grin3a
 related:
 categories: Ectodermal Neuronal Neuroectodermal Neuroblast

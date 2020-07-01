@@ -1,5 +1,5 @@
-name: Neuroblast Midbrain 5
-abbreviation: NbMid5
+name: Neuroblast Midbrain 4
+abbreviation: NbMid4
 definition: +Neurod4 +Kcnip3 +Ndst3 +St18 +Lhx2
 related: NbMid3 NbMid35
 categories: Ectodermal Neuronal Neuroectodermal

@@ -1,5 +1,5 @@
-name: Neuroblast Midbrain 6
-abbreviation: NbMid6
+name: Neuroblast Midbrain 5
+abbreviation: NbMid5
 definition: +Lmx1a +Pitx2 +Uncx +Epha3
 go:
 shogoin: 

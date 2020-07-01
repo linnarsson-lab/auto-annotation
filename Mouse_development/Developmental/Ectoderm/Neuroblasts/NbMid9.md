@@ -1,5 +1,5 @@
-name: Neuroblast Midbrain type 11
-abbreviation: NbMid11
+name: Neuroblast Midbrain type 9
+abbreviation: NbMid9
 definition: +Six3 +Pax5 +Kiz +Ndst3 +Mfng
 related: IntV2b MGabaProg
 categories: Ectodermal Neuronal Neuroectodermal Neuroblast
@@ -7,7 +7,7 @@ version: 2
 synonyms:
 ---
 
-Neuroblast Midbrain type 11
+Neuroblast Midbrain type 9
 
 Justification:
 

@@ -1,5 +1,5 @@
-name: Neuroblast Midbrain type 13
-abbreviation: NbMid13
+name: Neuroblast Midbrain type 11
+abbreviation: NbMid11
 definition: +Fibcd1 +Grm3 +Irx2 +Irx1
 related:
 categories: Ectodermal Neuronal Neuroectodermal Neuroblast
@@ -7,7 +7,7 @@ version: 2
 synonyms:
 ---
 
-Neuroblast Midbrain type 13
+Neuroblast Midbrain type 11
 
 Justification:
 

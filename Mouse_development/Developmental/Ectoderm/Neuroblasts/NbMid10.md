@@ -1,5 +1,5 @@
-name: Neuroblast Midbrain type 12
-abbreviation: NbMid12
+name: Neuroblast Midbrain type 10
+abbreviation: NbMid10
 definition: +Tfap2b +Tal2 +Lgals7 +Sst
 related:
 categories: Ectodermal Neuronal Neuroectodermal Neuroblast
@@ -7,7 +7,7 @@ version: 2
 synonyms:
 ---
 
-Neuroblast Midbrain type 12
+Neuroblast Midbrain type 10
 
 Justification:
 

@@ -1,5 +1,5 @@
-name: Forebrain neuroblast type 4
-abbreviation: NbFor4
+name: Forebrain neuroblast type 3
+abbreviation: NbFor3
 definition: +Tshz2 +Egfem1 +Cck +Fbn2
 categories: Ectodermal Neuronal Neuroectodermal
 ---

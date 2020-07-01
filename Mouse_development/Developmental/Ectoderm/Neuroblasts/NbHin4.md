@@ -1,5 +1,5 @@
-name: Neuroblast Hindbrain type 5
-abbreviation: NbHin5
+name: Neuroblast Hindbrain type 4
+abbreviation: NbHin4
 definition: +Tlx1 +Lbx1 +Kazald1
 categories: Ectodermal Neuronal Neuroectodermal
 ---

@@ -1,5 +1,5 @@
-name: Striatal Neuroblasts 2
-abbreviation: NbMSN2
+name: Striatal Neuroblasts
+abbreviation: NbMSN
 definition: +Ebf1 +Rarb +Rxrg
 categories: Ectodermal Neuronal Neuroectodermal
 ---
