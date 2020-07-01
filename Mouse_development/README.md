@@ -2,7 +2,9 @@
 Computer-readable annotation for developmental cell types and states in the developing mouse brain.
 
 This resource has been produced as a part of the research related to the paper:
-Molecular Architecture of the Developing Mouse Brain
+
+*Molecular Architecture of the Developing Mouse Brain*
+
 Gioele La Manno*+, Kimberly Siletti*, Alessandro Furlan, Daniel Gyllborg, Elin Vinsland, Christoffer Mattsson Langseth, Irina Khven, Anna Johnsson, Mats Nilsson, Peter Lönnerberg, Sten Linnarsson+
 
 ## What does it contain?
