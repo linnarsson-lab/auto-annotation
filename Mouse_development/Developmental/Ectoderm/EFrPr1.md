@@ -13,7 +13,4 @@ Early forebrain progentiors type 1
 
 Justification:
 
-Note they have Gsc (Gosecoid) type 2 has Dkk1
-
-
 [https://doi.org/10.1016/j.mod.2006.10.001] Genetic interaction of Gsc and Dkk1 in head morphogenesis of the mouse

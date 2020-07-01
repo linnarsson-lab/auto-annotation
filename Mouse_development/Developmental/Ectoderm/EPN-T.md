@@ -7,6 +7,6 @@ categories: Ectodermal Neuroectodermal
 Type of ependymal cell
 
 Justification:
-Rax used as a tanycyte marker
-doi:  10.1038/nn.4495
-https://doi.org/10.1016/j.celrep.2017.03.004
+
+[https://doi.org/10.1038/nn.4495] Rax used as a tanycyte marker  
+[https://doi.org/10.1016/j.celrep.2017.03.004]

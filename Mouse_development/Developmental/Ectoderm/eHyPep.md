@@ -8,6 +8,4 @@ Hypothalamic Peptidergic developmental
 
 Justification:
 
-Wiki:
-search: Sim1 (HYPEP1,2,4,5)
-cell type:HYPEP1
+Sim1 -> Adolescent HYPEP1
