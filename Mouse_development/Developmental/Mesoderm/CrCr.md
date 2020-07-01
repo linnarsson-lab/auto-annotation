@@ -18,7 +18,7 @@ Cardiac Crescent cells are defined as +Hand2 +Tbx20 +Smarcd3 (among others) by [
 
 Wnt2 accelerates cardiac myocyte differentiation from ES-cell derived mesodermal cells [10.1016/j.yjmcc.2011.11.010]
 
-They are also +Pitx2. Pitx2 is involved heart repair [doi:10.1038/nature17959]
+They are also +Pitx2. Pitx2 is involved heart repair [https://doi.org/10.1038/nature17959]
 
 Hand1, Pmp22, Tac2 are the markers shared by other heart progenitors
 

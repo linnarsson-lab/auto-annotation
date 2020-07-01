@@ -17,6 +17,4 @@ Justification:
 * Cluster appears only around P20 and persists until at least P90
 * Cluster is the most numerous cell type in dentate gyrus
 
-[1] doi:10.1016/B978-0-12-397265-1.00079-4 
-
-This definition is valid on very many clusters form development
+[https://doi.org/10.1016/B978-0-12-397265-1.00079-4]

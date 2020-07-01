@@ -14,6 +14,6 @@ Justification:
 
 Slc1a2 is GLT-1, the glutamate reuptake transporter, which is expressed in all astrocytes
 
-https://www.ncbi.nlm.nih.gov/pubmed/19892786/  (Scg3)
+[https://www.ncbi.nlm.nih.gov/pubmed/19892786/]  (Scg3)
 
 Agt is found by us to be expressed in a specific astrocyte type caudally starting from diencephalon

@@ -8,5 +8,5 @@ synonyms:
 
 Justification: 
 
-http://dev.biologists.org/content/134/6/1133
-http://www.nature.com/neuro/journal/v17/n2/full/nn.3614.html
+[http://dev.biologists.org/content/134/6/1133]
+[http://www.nature.com/neuro/journal/v17/n2/full/nn.3614.html]

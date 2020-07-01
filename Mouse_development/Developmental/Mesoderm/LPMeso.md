@@ -9,16 +9,17 @@ version: 1
 synonyms:
 ---
 
-Mesodermal cells distinct from the ones of the Node and primitive streak. They are aproximatevelly in the same area but more laterally.
-If I udnerstand it correctly they are the perspective paraxial mesoderm.
+Mesodermal cells
 
 Justification:
 
+Mesodermal cells distinct from the ones of the Node and primitive streak. They are aproximatevelly in the same area but more laterally. Most likely the perspective paraxial mesoderm.
+
 Mesp1, Mesp2, Tbx6, Lefty2, Mixl1
 
-Mixl1 [doi:10.1038/srep00455]
+Mixl1 [https://doi.org/10.1038/srep00455]
 
-Defective somite patterning in mouse embryos with reduced levels of Tbx6 [doi: 10.1242/dev.00367]
+[https://doi.org/10.1242/dev.00367] Defective somite patterning in mouse embryos with reduced levels of Tbx6 
 
 
 Lefty2 [http://dx.doi.org/10.1016/S1097-2765(00)80331-7]

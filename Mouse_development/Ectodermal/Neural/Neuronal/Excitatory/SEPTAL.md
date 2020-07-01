@@ -6,6 +6,4 @@ version: 1
 synonyms:
 ---
 
-Putative septal neurons along third ventricle, tentatively identifed across many tissues. 
-
-WARNING: this is a very speculative annotation, subject to revision.
+Putative septal neurons along third ventricle. 
