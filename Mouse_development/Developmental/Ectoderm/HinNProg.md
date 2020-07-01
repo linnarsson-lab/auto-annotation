@@ -1,5 +1,5 @@
-name: Hindbrain Excitatory Progenitor 2
-abbreviation: HinNProg2
+name: Hindbrain Excitatory Progenitor
+abbreviation: HinNProg
 definition: +Ntf3 +Sp5 +Tlx3
 related: HinEx2
 categories: Ectodermal Neuronal Neuroectodermal
