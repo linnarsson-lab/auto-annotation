@@ -18,7 +18,7 @@ The AVE cells are induced at the distal tip of the 5.5 dpc embryo and then migra
 [http://discovery.lifemapsc.com/in-vivo-development/hypoblast/extraembryonic-visceral-endoderm/anterior-visceral-endoderm-cells]
 
 
-[10.1038/ncb2251]
+[https://doi.org/10.1038/ncb2251]
 At E6.7, three markers were co-expressed, but Cer1+, Hex+ cells located at the proximal region were negative for Lefty1 (8/8 embryos), indicating that AVE cells co-express Lefty1, Cer1 and Hex, although those in the most proximal region lose Lefty1 expression earlier than expression of Cer1 and Hex.
 
 It was possible to specifically label DVE cells most probably because the action of tamoxifen is transient and because the expression level of Lefty1 is higher than that in newly formed AVE.
