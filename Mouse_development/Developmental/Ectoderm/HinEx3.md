@@ -6,14 +6,6 @@ categories: Ectodermal Neuronal Neuroectodermal
 
 Dorsal Thalamic tier Excitatory type 3
 
-Justification:
-
-
-AllenBrain:
-
-
-Wiki:
-
 Other markers:
 Cbln2
 Cbln1

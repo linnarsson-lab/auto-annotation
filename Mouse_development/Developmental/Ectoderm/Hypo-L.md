@@ -12,8 +12,9 @@ Justification:
 Lower but significant levels of Hmx2 and Hmx3 expression were detected in the entire posterior 
 hypothalamus with higher expression in the arcuate nucleus (ARN) and the lateral hypothalamic area"
 
+[https://doi.org/10.1016/j.devcel.2004.06.016]
 Besides the ARN, Galanin mRNA is also detectable in the periventricular nucleus 
 (PVN; arrowhead in Figure 4Bc) and the lateral hypothalamic area of the hypothalamus, 
 as well as many other regions in the brain such as the hippocampus (data not shown).
-https://doi.org/10.1016/j.devcel.2004.06.016
+
 

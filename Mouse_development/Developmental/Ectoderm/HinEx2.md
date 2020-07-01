@@ -7,15 +7,10 @@ categories: Ectodermal Neuronal Neuroectodermal
 
 Dorsal Thalamic tier Excitatory type 2
 
-Justification:
 
+[http://sanger.mbb.ki.se/dokuwiki/doku.php?id=trinary_filter]
 
-AllenBrain:
-
-
-Wiki:
-[http://sanger.mbb.ki.se/dokuwiki/doku.php?id=trinary_filter] filter: Pdgfc, Pvalb
-cluster: HBGLU7
+Pdgfc, Pvalb -> Adolescent HBGLU7
 
 Other markers:
 Cadps2

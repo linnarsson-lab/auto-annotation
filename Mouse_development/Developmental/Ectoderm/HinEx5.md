@@ -4,15 +4,7 @@ definition: +Pou4f1 +Hmx2 +Pou4f2 +Hmx3 +Foxp2
 categories: Ectodermal Neuronal Neuroectodermal
 ---
 
-
-
-Justification:
-
-
-AllenBrain:
-
-
-Wiki:
+Hindbrain Excitatory type 5
 
 Other markers:
 Gabra5

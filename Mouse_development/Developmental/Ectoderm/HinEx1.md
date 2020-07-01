@@ -6,14 +6,6 @@ categories: Ectodermal Neuronal Neuroectodermal
 
 Dorsal Thalamic tier Excitatory type 1
 
-Justification:
-
-
-AllenBrain:
-
-
-Wiki:
-
 
 Other markers:
 Chrm3

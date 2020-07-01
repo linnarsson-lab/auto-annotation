@@ -5,15 +5,11 @@ related: HinEx2
 categories: Ectodermal Neuronal Neuroectodermal
 ---
 
-Ciclying progentors cells (putativelly the progentiors of HinEx2).
+Ciclying progentors cells
 
 Justification:
 
-Notice they are ciclying but expression of cycling genes is not very high. They are probably not cells of the ventricular zone.
-
-Expression of simialr marke of HinEx2
-
-But is difficoult to locate and I found no matching
+Putativelly the progentiors of HinEx2.
 
 AllenBrain:
 Tlx3 (it is located in the hindbrain and int the cranial nervers gangla e.g. trigeminal)
@@ -27,6 +23,7 @@ Fgf8 (hystmus, at E11 is broad layer, later it shrink to a very thin spot at E13
 [http://developingmouse.brain-map.org/experiment/show/100081527]
 [http://developingmouse.brain-map.org/experiment/show/100053250]
 
+Notice they are ciclying but expression of cycling genes is not very high. They are probably not cells of the ventricular zone.
 
 Other markers:
 Sp5

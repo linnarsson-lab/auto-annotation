@@ -6,14 +6,6 @@ categories: Ectodermal Neuronal Neuroectodermal
 
 Dorsal Thalamic tier Excitatory type 4
 
-Justification:
-
-
-AllenBrain:
-
-
-Wiki:
-
 Other markers:
 Tfap2d
 Chst8

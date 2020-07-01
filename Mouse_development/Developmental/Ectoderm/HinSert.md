@@ -6,14 +6,6 @@ categories: Ectodermal Neuronal Neuroectodermal
 
 Hindbrain Serotonergic Neurons
 
-Justification:
-
-
-AllenBrain:
-
-
-Wiki:
-
 Other markers:
 Slc6a4
 C130021I20Rik
