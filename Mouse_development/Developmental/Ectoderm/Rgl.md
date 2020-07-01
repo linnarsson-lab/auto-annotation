@@ -9,7 +9,16 @@ version: 1.5
 synonyms:
 ---
 
-Radialglia according to Pollen et al. 2015 and La Manno et al. 2016. Other genes to take in consideration: +Notch3
+Radialglia and Radialglia-like cells
+
+A broad definition compatible to both
+[https://doi.org/10.1016/j.cell.2015.09.004]
+Pollen et al. 2015
+and 
+[https://doi.org/10.1016/j.cell.2016.09.027]
+La Manno et al. 2016.
+
+It is accurate only when applied to neuro-ectoderm derived cells might generate false positives in the mesodermal lineage.
 
 Justification:
 
@@ -24,3 +33,5 @@ Notice that this is mostly a negative definition
 -Mpz to avoid Schwann cells to be called
 
 -Plp1 is important to avoid including neural crest cells
+
+ Other genes to take in consideration: +Notch3

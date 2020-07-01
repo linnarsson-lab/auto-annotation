@@ -8,7 +8,6 @@ categories: Ectodermal Neuronal Neuroectodermal
 Dorsal Thalamic tier Excitatory type 2
 
 
-[http://sanger.mbb.ki.se/dokuwiki/doku.php?id=trinary_filter]
 
 Pdgfc, Pvalb -> Adolescent HBGLU7
 

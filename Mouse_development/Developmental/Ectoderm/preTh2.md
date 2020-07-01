@@ -4,6 +4,4 @@ definition: +Lhx1 +Pax6 +Syt4 +Fam19a1 +Rcn1
 categories: Ectodermal Neuroectodermal Neuronal
 ---
 
-justification:
-
-Found in forebrain ventrothalamic E16-18
+Prethalamus type 2

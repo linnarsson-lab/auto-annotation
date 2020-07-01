@@ -10,7 +10,7 @@ Justification:
 
 Wiki:
 Similar to SZNBL1
-[http://sanger.mbb.ki.se/dokuwiki/doku.php?id=trinary_filter] filter: Samd3, Uncx, Lrfn5
+filter: Samd3, Uncx, Lrfn5
 
 Found in Forebrain Dorsal E12-15
 

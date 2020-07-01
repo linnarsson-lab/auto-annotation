@@ -9,13 +9,12 @@ version: 1.5
 synonyms:
 ---
 
-Radialglia-like cells type 2, likely precursor of the OPCs
+Radialglia-like cells type 2, likely the precursors of OPCs
 
 Justification:
 
-Radialglia-like cells 2c according to La Manno et al. 2016
+Radialglia-like cells 2c according to [https://doi.org/10.1016/j.cell.2016.09.027] La Manno et al. 2016.
 
-(NOTE :This definition could have been made before the Radialglialike analysis becouse is mainly relying on La Manno et al.)
 
 Possible markers:
 Ntsr2 Crlf1

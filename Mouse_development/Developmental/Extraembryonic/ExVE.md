@@ -14,10 +14,9 @@ The visceral endoderm develops in the murine embryo from the hypoblast and is an
 Justification:
 
 
-ApoB is expressed in Yolk Sack Visceral Endoderm [http://www.jlr.org/content/37/2/347.abstract]
+[http://www.jlr.org/content/37/2/347.abstract] ApoB is expressed in Yolk Sack Visceral Endoderm 
 
-The cells of the visceral endoderm are flat squamous cells featuring microvilli, Vil1 is one of the major components
- [https://en.wikipedia.org/wiki/Microvillus]
-
+[https://en.wikipedia.org/wiki/Microvillus] The cells of the visceral endoderm are flat squamous cells featuring microvilli, Vil1 is one of the major components
+ 
 Markers that have been identified in the literature that are clearly specific:
 Vil1 Afp Cubn Apoc2 Tdh Soat2 Apoa1 Apoa2 Apoa4 Apob Apom

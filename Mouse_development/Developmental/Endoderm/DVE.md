@@ -9,9 +9,10 @@ version: 1
 synonyms:
 ---
 
+Distal Visceral Endoderm derived cells
 
 Distal visceral endoderm (DVE) cells are the tall, columnar epithelial visceral endoderm cells which lie at the distal tip of the egg cylinder and can be morphologically distinguished from the surrounding squamous visceral endoderm. 
-This subset is migrated anterioursly at the AVE but it looses hte expression of Lefty1.
+This subset is migrated anteriorly at the AVE but it looses the expression of Lefty1.
 
 Justification:
 
@@ -19,8 +20,6 @@ Shortly after its formation, the DVE cell begins to unilaterally move over the u
 [http://discovery.lifemapsc.com/in-vivo-development/hypoblast/extraembryonic-visceral-endoderm/distal-visceral-endoderm-cells]
 
 
-[10.1038/ncb2251]
-At E6.7, three markers were co-expressed, but Cer1+, Hex+ cells located at the proximal region were negative for Lefty1 (8/8 embryos), indicating that AVE cells co-express Lefty1, Cer1 and Hex, although those in the most proximal region lose Lefty1 expression earlier than expression of Cer1 and Hex.
-
+[https://doi.org/10.1038/ncb2251] At E6.7, three markers were co-expressed, but Cer1+, Hex+ cells located at the proximal region were negative for Lefty1 (8/8 embryos), indicating that AVE cells co-express Lefty1, Cer1 and Hex, although those in the most proximal region lose Lefty1 expression earlier than expression of Cer1 and Hex.
 It was possible to specifically label DVE cells most probably because the action of tamoxifen is transient and because the expression level of Lefty1 is higher than that in newly formed AVE.
 

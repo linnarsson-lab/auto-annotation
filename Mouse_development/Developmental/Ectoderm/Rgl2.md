@@ -13,6 +13,6 @@ Radialglia-like cells type 2
 
 Justification:
 
-Radialglia-like cells according to La Manno et al. 2016
+Radialglia-like cells according to [https://doi.org/10.1016/j.cell.2016.09.027] La Manno et al. 2016.
 
-(NOTE :This definition could have been made before the Radialglialike analysis becouse is mainly relying on La Manno et al.)
+It is accurate only when applied to neuro-ectoderm derived cells might generate false positives in the mesodermal lineage.

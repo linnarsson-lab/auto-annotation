@@ -9,9 +9,7 @@ version:
 synonyms:
 ---
 
-Justification:
+Ventricular Zone
 
-In situs:
-https://doi.org/10.3389/fnins.2014.00257
-
-Two clusters in Forebrain Dorsal E16-18
+In situ:
+[https://doi.org/10.3389/fnins.2014.00257]

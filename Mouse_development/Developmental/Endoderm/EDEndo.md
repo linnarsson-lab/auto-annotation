@@ -11,5 +11,4 @@ synonyms:
 
 The endoderm proper generated after gastrulation posteriorly close to the primitive streak mesoderm.
 
-Justification:
 

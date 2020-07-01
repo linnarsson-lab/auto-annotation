@@ -11,5 +11,3 @@ synonyms:
 
 Radialglia-like cells type 2 in the Midbrain
 
-Justification:
-

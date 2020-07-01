@@ -9,10 +9,11 @@ version: 2
 synonyms:
 ---
 
-Radialglia-like cells type 2 but found in the forebrain where Slc6a11 is not expressed
+Radialglia-like cells type 2 (but found in the forebrain where Slc6a11 is not expressed)
 
 Justification:
 
+See also Rgl2
 Note: Aldoc is broadly expressed in the Forebrain at E12-E15 
 
 Other markers:
