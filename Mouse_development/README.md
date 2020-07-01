@@ -1,9 +1,9 @@
-# Auto-annotations for the cell types of the Mouse Developing Nervous System 
+# Cell-type Auto-annotations of the Developing Nervous System
 Computer-readable annotation for developmental cell types and states in the developing mouse brain.
 
 This resource has been produced as a part of the research related to the paper:
 
-*Molecular Architecture of the Developing Mouse Brain*
+*Molecular Architecture of the Developing Mouse Brain* </br>
 Gioele La Manno*+, Kimberly Siletti*, Alessandro Furlan, Daniel Gyllborg, Elin Vinsland, Christoffer Mattsson Langseth, Irina Khven, Anna Johnsson, Mats Nilsson, Peter Lönnerberg, Sten Linnarsson+
 
 ## What does it contain?
