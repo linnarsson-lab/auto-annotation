@@ -11,11 +11,6 @@ synonyms:
 
 Midbrain-Hindbrain boundary caudal part
 
-Justification:
 
-see also the justification of MHBw
-
-Do not confuse with the organizer @CoP
-
-other markers:
+Other markers:
 Cldn10, Sp9, Fgf8, Fgf17, Pax8, Pax2

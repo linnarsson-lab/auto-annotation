@@ -15,8 +15,6 @@ Justification:
 
 [doi: 10.1101/cshperspect.a007963.]
 
-Added with Ernest
+This group expresses Wnt3a
 
-This group express Wnt3a
-
-Might overla p With @HoxCaud and @SpnlC
+It might overlap With @HoxCaud and @SpnlC

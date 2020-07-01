@@ -24,7 +24,7 @@ Justification:
 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4009495/] Six6, a sine oculis homeobox protein, plays a crucial and conserved role in the development of the forebrain and eye.
 
-Pax6 is in common with more anteriror forebrain
+Pax6 is in common with more anteriror forebrain.
 
 The selection of -Robo3 is from inspection not literature
 

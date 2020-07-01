@@ -9,11 +9,9 @@ version: 2
 synonyms:
 ---
 
-Spinal cord or Rhombomeres r2 patterning. Likely floor plate
+Spinal cord or Rhombomeres r2 patterning. (Likely floor plate)
 
 Justification:
-
-I am not very sure of this annotation
 
 [10.1371/journal.pone.0124408] Nkx2.2 and Nkx2.9 Are the Key Regulators to Determine Cell Fate of Branchial and Visceral Motor Neurons in Caudal Hindbrain
 

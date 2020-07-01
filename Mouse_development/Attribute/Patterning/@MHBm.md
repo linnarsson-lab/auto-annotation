@@ -11,5 +11,3 @@ synonyms:
 
 Midbrain-Hindbrain boundary Marginal area
 
-Justification:
-

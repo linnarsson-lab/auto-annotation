@@ -9,9 +9,12 @@ version: 1
 synonyms:
 ---
 
-Cells expressing pan-oligodendrocyte markers
+Oligodendrocyte lineage
+
+
+Cells expressing pan-oligodendrocyte markers.
+
+Note:
 Sox10 is also generally expressed in neural crest lineage
 Plp1 is shared with Schwann cells and olfactory ensheathing cells
-With Mog it becomes unique, but only labels more mature oligos
-
-
+With Mog the signature becomes unique, but only labels more mature oligos.

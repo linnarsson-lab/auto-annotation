@@ -13,4 +13,4 @@ Early Neural Tube shared genes, indepent by patterning
 
 Justification:
 
-Autoannoation to try to pick up only E8.0 Radialglial-like/NeuroepitherlialCells
+Autoannoation targeted to E8.0 Neuroepithelial Cells

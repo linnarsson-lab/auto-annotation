@@ -13,7 +13,7 @@ Rostral Telencephalic Patterning Centre
 
 Justification:
 
-Takes the name of Anterior Neural Ridge (ANR) early when the neaural tube is open or Comissural Plate (CoP) later
+Takes the name of Anterior Neural Ridge (ANR) early when the neural tube is open or Comissural Plate (CoP) later
 
 [http://dx.doi.org/10.1016/B978-0-12-397265-1.00021-6] The initial, tangential gradients of transcription factors (TFs) in the ventricular zone (VZ) are established by signaling molecules/morphogens secreted from telencephalic patterning centers, such as Fgf8 and Fgf17 from the anterior neural ridge (ANR), which later becomes the commissural plate (CoP)
 

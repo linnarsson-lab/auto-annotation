@@ -13,7 +13,7 @@ Early patterning of the neural tube caudal to the hindbrain
 
 Justification:
 
-Cpn1 seem related to a thoracic-ventral patterning and its expression in shared by neural tube, endoderm and isceral yolk
+Cpn1 seem related to a thoracic-ventral patterning and its expression in shared by neural tube, endoderm and visceral yolk
 
 [http://dx.doi.org.proxy.kib.ki.se/10.1016/S1567-133X(03)00091-7] Sfrp5 is also expressed in the dorsal portion of the neural tube just caudal to the hindbrain. In embryos that had completed turning, we noted an additional domain of Sfrp5 expression in the forebrain anterior to the optic placode ( Fig. 2G).
 

@@ -15,9 +15,6 @@ Justification:
 
 [https://doi.org/10.1093/hmg/9.9.1443] This is a good reference paper for the pattern of Barhl1: "Barhl1 showed specific domains of expression in the diencephalon and in the rhombencephalon where it was found to be expressed in migrating cells giving rise to the cerebellar external granular layer and to specific populations of dorsal sensory interneurons of the spinal cord"
 
-Other Genes:
-Grem2, Sstr2
-
 Other papers:
 [doi: 10.1128/MCB.01454-07] About regulation of Barhl1 by Atoh1: "proper Barhl1 expression in inner ear hair cells and cerebellar and precerebellar neurons requires the presence of Atoh1"
 
@@ -25,6 +22,5 @@ Other papers:
 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4123739/] 
 
-
-NOTE: 
-This is note the right regions but there seem to be some link with "comissural neurons" more generally (e.g in the spinal cord)
+Other Genes:
+Grem2, Sstr2

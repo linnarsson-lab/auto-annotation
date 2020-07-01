@@ -13,9 +13,7 @@ Midbrain-Hindbrain boundary rostral
 
 Justification:
 
-Pattern of expression of Otx2
-
-see also the justification of MHBw
+See  the justification of MHBw
 
 other markers:
 Pax8, Pax2, Tal2, Otx1

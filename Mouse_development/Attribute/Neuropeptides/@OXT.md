@@ -9,4 +9,5 @@ Cells releasing oxytocin
 
 Justification:
 
-As published by us
+Previously described in Zeisel et al. 2018
+

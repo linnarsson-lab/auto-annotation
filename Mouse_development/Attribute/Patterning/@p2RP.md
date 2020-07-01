@@ -9,7 +9,7 @@ version: 2
 synonyms:
 ---
 
-Roof plate of p2 (epithalamic) and maybe partially p2 alar
+Roof plate of p2 (epithalamic) and, partially, p2 alar.
 
 Justification:
 

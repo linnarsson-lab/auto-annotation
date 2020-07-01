@@ -13,6 +13,4 @@ Cells of the Mononuclear system cells
 
 Justification:
 
-Some times PPVM Mgl and LEUKO are cluster together in a cluster of level one. 
-This class is thought to flag the cluster anyway even if the specific autoannotation do not work.
-
+A general auto-annotation for a cell from the mononuclear system
