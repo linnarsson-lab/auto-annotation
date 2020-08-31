@@ -1,6 +1,6 @@
 name: Microglia (mesoderm) 
 abbreviation: M-MGL 
-definition: +TYROBP +DOCK8 -CD163 -GZMB
+definition: +TYROBP +DOCK8 -CD163 -GZMB -FCN1
 go: 
 shogoin: 
 uberon: 
@@ -15,3 +15,4 @@ Tmem119:
     Tmem119 is specific but not highly enough expressed to use as a marker
 
 Adding GZMB to avoid labeling NK cells.
+Adding FCN1 to avoid labeling monocytes
