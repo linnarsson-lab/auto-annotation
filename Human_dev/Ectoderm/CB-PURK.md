@@ -1,6 +1,6 @@
 name: Purkinje cell
 abbreviation: CB-PURK
-definition: +PCP4 +RORA
+definition: +PCP2 +CAR8
 categories: Ectodermal Neuronal Neuroectodermal Cerebellum
 ---
 

@@ -1,6 +1,6 @@
 name: Neuron
 abbreviation: NEUR
-definition: +RBFOX1
+definition: +DCX
 go:
 shogoin: 
 uberon:
