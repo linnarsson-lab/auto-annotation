@@ -1,6 +1,6 @@
 name: Neuron
 abbreviation: NEUR
-definition: +DCX
+definition: +INA
 go:
 shogoin: 
 uberon:
@@ -9,3 +9,4 @@ version: 1
 synonyms:
 ---
 
+Based on metamarker discovery in the humandev dataset

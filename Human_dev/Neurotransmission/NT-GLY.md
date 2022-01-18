@@ -1,6 +1,6 @@
 name: Glycinergic
 abbreviation: NT-GLY
-definition: +SLC32A1 +SLC6A5
+definition: +GAD2 +SLC6A5
 categories: Ectodermal Neuronal Neuroectodermal
 version: 1
 synonyms:

@@ -1,6 +1,6 @@
 name: Radial glia
 abbreviation: RGL
-definition: +SOX2 +HES1
+definition: +HES1
 categories: Ectodermal Neuronal Neuroectodermal
 ---
 

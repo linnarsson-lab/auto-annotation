@@ -1,6 +1,6 @@
 name: GABAergic
 abbreviation: NT-GABA
-definition: +GAD2 +SLC32A1 -SLC6A5
+definition: +GAD2 -SLC6A5
 go: 0051932 (synaptic transmission, GABAergic)
 shogoin: 
 uberon: 
