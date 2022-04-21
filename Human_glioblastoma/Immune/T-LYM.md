@@ -4,7 +4,7 @@ definition: +CD3D +CD3E +CD3G +GZMH +IL2RB +PRF1
 go: 
 shogoin: 
 uberon: 
-categories: Myeloid
+categories: Lymphoid
 version: 1 
 synonyms:
 ---
