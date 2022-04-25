@@ -1,6 +1,6 @@
-name: T Cytotoxic
-abbreviation: T-CTX
-definition: +CD8A +CCL5 +GZMK +GNLY +EOMES +ZNF683 +KLRG1 +NKG7 +ZEB2
+name: T Regulatory
+abbreviation: TH2
+definition: +IL4
 go: 
 shogoin: 
 uberon: 

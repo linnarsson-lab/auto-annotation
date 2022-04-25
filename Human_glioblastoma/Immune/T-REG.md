@@ -1,6 +1,6 @@
 name: T Regulatory
 abbreviation: TREG
-definition: +CD3D +CD3E +CD3G +FOXP3 +CTLA4 +IRF4 +BATF +TNFRSF18 +TOX2 +PRDMI
+definition: +FOXP3 +CTLA4 +IRF4 +BATF +TNFRSF18 +TOX2 +PRDMI
 go: 
 shogoin: 
 uberon: 

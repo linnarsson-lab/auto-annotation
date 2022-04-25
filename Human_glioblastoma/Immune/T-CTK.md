@@ -1,6 +1,6 @@
 name: T Cytokine
 abbreviation: T-CTK
-definition: +CD3D +CD3E +CD3G +CD8A +CCL3 +IFNG +CCL4 +XCL1 +CSF2 +IL10 +IL26 +NKG7 +TNFRSF9 +PRF1 +LAG3
+definition: +CD8A +CCL3 +IFNG +CCL4 +XCL1 +CSF2 +IL10 +IL26 +NKG7 +TNFRSF9 +PRF1 +LAG3
 go: 
 shogoin: 
 uberon: 
