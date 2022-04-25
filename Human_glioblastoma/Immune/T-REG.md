@@ -4,7 +4,7 @@ definition: +CD3D +CD3E +CD3G +FOXP3 +CTLA4 +IRF4 +BATF +TNFRSF18 +TOX2 +PRDMI
 go: 
 shogoin: 
 uberon: 
-categories: Myeloid
+categories: Lymphoid
 version: 1 
 synonyms:
 ---
