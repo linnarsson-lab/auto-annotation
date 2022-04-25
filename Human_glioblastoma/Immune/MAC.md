@@ -1,6 +1,6 @@
-name: Glioma Associated Myeloid Cells
-abbreviation: GAM
-definition: +PTPRC +ITGAM -CD3D -CD3E -CD3G -CD19 −MS4A1 +HLA-B, +CD74 +HLA-DPA1
+name: Macrophages
+abbreviation: MAC
+definition: +CD163 +MRC1 +ITGA4 +ITGAM -P2RY12
 go: 
 shogoin: 
 uberon: 
@@ -8,11 +8,15 @@ categories: Myeloid
 version: 1 
 synonyms:
 ---
-PTPRC == CD45
-MS4A1 == CD20
-ITGAM == CD11b
 
++APOE +S100A11 +CD163
 [https://doi.org/10.1038/s43018-021-00201-z] Friedrich, M., Sankowski, R., Bunse, L. et al. Tryptophan metabolism drives dynamic immunosuppressive myeloid states in IDH-mutant gliomas. Nat Cancer 2, 723–740 (2021). 
 
-+ITGAM Microglia and macrophages
++C1QA +C1QB +C1QC +TYROBP
+[doi:10.3389/fonc.2021.710695] Cui X, Wang Q, Zhou J, et al. Single-Cell Transcriptomics of Glioblastoma Reveals a Unique Tumor Microenvironment and Potential Immunotherapeutic Target Against Tumor-Associated Macrophage. Front Oncol. 2021;11:710695. Published 2021 Aug 9. 
+
++MRC1
+[Mousebrain.org]
+
++ITGAM +ITGA4 Microglia and macrophages
 [https://doi.org/10.1186/s13059-017-1362-4] Müller, S., Kohanbash, G., Liu, S.J. et al. Single-cell profiling of human gliomas reveals macrophage ontogeny as a basis for regional differences in macrophage activation in the tumor microenvironment. Genome Biol 18, 234 (2017).
