@@ -1,6 +1,6 @@
-name: T Cytokine
-abbreviation: T-CTK
-definition: +CD8A +CCL3 +IFNG +CCL4 +XCL1 +CSF2 +IL10 +IL26 +NKG7 +TNFRSF9 +PRF1 +LAG3
+name: T Regulatory
+abbreviation: L-TH2
+definition: +IL4
 go: 
 shogoin: 
 uberon: 

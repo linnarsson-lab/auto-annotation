@@ -1,5 +1,5 @@
 name: T Regulatory
-abbreviation: TREG
+abbreviation: L-TREG
 definition: +FOXP3 +CTLA4 +IRF4 +BATF +TNFRSF18 +TOX2 +PRDMI
 go: 
 shogoin: 

@@ -1,5 +1,5 @@
 name: T Cytotoxic
-abbreviation: T-CTX
+abbreviation: L-TCTX
 definition: +CD8A +CCL5 +GZMK +GNLY +EOMES +ZNF683 +KLRG1 +NKG7 +ZEB2
 go: 
 shogoin: 

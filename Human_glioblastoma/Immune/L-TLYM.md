@@ -1,5 +1,5 @@
 name: T Lymphocytes
-abbreviation: T-LYM
+abbreviation: L-TLYM
 definition: +CD3D +CD3E +CD3G +GZMH +IL2RB +PRF1
 go: 
 shogoin: 

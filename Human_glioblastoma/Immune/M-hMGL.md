@@ -1,5 +1,5 @@
 name: homeostatic Microglia
-abbreviation: hMGL
+abbreviation: M-HMGL
 definition: +P2RY12 +CX3CR1 +CSF1R
 go: 
 shogoin: 

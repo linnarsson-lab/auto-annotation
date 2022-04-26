@@ -1,6 +1,6 @@
-name: Macrophages
-abbreviation: MAC
-definition: +CD163 +MRC1 +ITGA4 +ITGAM -P2RY12
+name: Acutely Activated Macrophages
+abbreviation: M-AMAC
+definition: +APOE +S100A11 +CD163 +MRC1 +C1QA +C1QB +C1QC +TYROBP
 go: 
 shogoin: 
 uberon: 
@@ -17,6 +17,3 @@ synonyms:
 
 +MRC1
 [Mousebrain.org]
-
-+ITGAM +ITGA4 Microglia and macrophages
-[https://doi.org/10.1186/s13059-017-1362-4] Müller, S., Kohanbash, G., Liu, S.J. et al. Single-cell profiling of human gliomas reveals macrophage ontogeny as a basis for regional differences in macrophage activation in the tumor microenvironment. Genome Biol 18, 234 (2017).

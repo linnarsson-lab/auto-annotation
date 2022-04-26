@@ -1,5 +1,5 @@
 name: T Regulatory
-abbreviation: TH17
+abbreviation: L-TH17
 definition: +IL17A +IL17B +IL17C +IL17D +IL17F
 go: 
 shogoin: 

@@ -1,5 +1,5 @@
 name: Glioma Associated Myeloid Cells
-abbreviation: GAM
+abbreviation: M-GAM
 definition: +PTPRC +ITGAM -CD3D -CD3E -CD3G -CD19 −MS4A1 +HLA-B, +CD74 +HLA-DPA1
 go: 
 shogoin: 

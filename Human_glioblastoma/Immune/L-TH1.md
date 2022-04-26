@@ -1,5 +1,5 @@
 name: T Regulatory
-abbreviation: TH1
+abbreviation: L-TH1
 definition: +IFNG
 go: 
 shogoin: 
