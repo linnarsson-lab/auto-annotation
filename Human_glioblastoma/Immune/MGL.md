@@ -1,5 +1,5 @@
 name: Microglia
-abbreviation: M-MGL
+abbreviation: MGL
 definition: +HEXB +PTPRC +TMEM119 +OLFML3 +AIF1 +P2RY12
 go: 
 shogoin: 
