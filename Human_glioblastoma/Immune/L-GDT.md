@@ -1,4 +1,4 @@
-name: gamma delta T lymhocyte
+name: gamma delta T lymphocyte
 abbreviation: L-GDT
 definition: +TCRD +TRGV9 -CD8A -CD4
 go: 
