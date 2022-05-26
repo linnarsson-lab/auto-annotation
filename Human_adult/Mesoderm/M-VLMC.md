@@ -1,6 +1,6 @@
 name: Vascular leptomeningeal cells (mesoderm)
 abbreviation: M-VLMC
-definition: +CYP1B1 +PTGDS
+definition: +TBX18 +CYP1B1 +PTGDS +ABCA9
 go:
 shogoin: 
 uberon:
@@ -10,3 +10,8 @@ synonyms:
 ---
 
 Markers found by examining the pooled data
+
+TBX18 distinguishes VLMCs from some neurons 
+that express CYP1B1 and PTGDS
+
+ABCA9 distinguishes from endothelial
