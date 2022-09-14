@@ -19,3 +19,5 @@ Took TYROBP from the 10X single-cell PBMC data
 FCN1 may also mark dendritic cells
 
 CD14 expression seems too low to use as a marker
+
+Classical monocytes might express NRG1 https://www.proteinatlas.org/ENSG00000157168-NRG1/blood

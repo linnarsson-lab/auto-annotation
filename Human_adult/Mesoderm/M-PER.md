@@ -1,6 +1,6 @@
 name: Pericytes (mesoderm)
 abbreviation: M-PER
-definition: +PDGFRB +ENSG00000143248 -MYH11
+definition: +PDGFRB +RGS5 -MYH11
 go:
 shogoin: 
 uberon:
