@@ -1,6 +1,6 @@
 name: Mesenchymal-like
 abbreviation: MES-Like
-definition: +VIM
+definition: +VIM |VEGFA |ANGPTL4 |SPARCL1 |CHI3L1
 go: 
 shogoin: 
 uberon: 
