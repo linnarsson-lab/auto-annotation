@@ -1,6 +1,6 @@
 name: Plasma cells
 abbreviation: L-PLSM
-definition: +SDC1 +IRF4 +MZB1 +CD38 -CD14
+definition: +SDC1 |IRF4 |MZB1 |CD38 -CD14
 go: 
 shogoin: 
 uberon: 

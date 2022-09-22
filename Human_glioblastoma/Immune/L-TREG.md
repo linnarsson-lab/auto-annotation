@@ -1,6 +1,6 @@
 name: T Regulatory
 abbreviation: L-TREG
-definition: +FOXP3 +CTLA4 +IRF4 +BATF +TNFRSF18 +TOX2 
+definition: +FOXP3 +CTLA4 |IRF4 |BATF |TNFRSF18 |TOX2 
 go: 
 shogoin: 
 uberon: 

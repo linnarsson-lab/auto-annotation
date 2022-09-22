@@ -1,6 +1,6 @@
 name: T Cytokine
 abbreviation: L-TCTK
-definition: +CD8A +CCL3 +IFNG +CCL4 +XCL1 +CSF2 +IL10 +IL26 +NKG7 +TNFRSF9 +PRF1 +LAG3
+definition: +CD8A |CCL3 |IFNG +CCL4 |XCL1 |CSF2 |IL10 |IL26 |NKG7 |TNFRSF9 |PRF1 |LAG3
 go: 
 shogoin: 
 uberon: 

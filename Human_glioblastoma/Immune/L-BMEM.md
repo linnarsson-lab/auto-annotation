@@ -1,6 +1,6 @@
 name: Memory IgM B lymphocytes
 abbreviation: L-BMEM
-definition: +CD27 +IGHM +MS4A1 +CD19
+definition: +CD27 |IGHM |MS4A1 +CD19
 go: 
 shogoin: 
 uberon: 

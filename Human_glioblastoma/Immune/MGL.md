@@ -1,6 +1,6 @@
 name: Microglia
 abbreviation: MGL
-definition: +HEXB +PTPRC +AIF1 +P2RY12
+definition: +HEXB +PTPRC |AIF1 |P2RY12
 go: 
 shogoin: 
 uberon: 
