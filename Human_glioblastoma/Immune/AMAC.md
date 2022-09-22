@@ -1,6 +1,6 @@
 name: Acutely Activated Macrophages
 abbreviation: AMAC
-definition: |APOE +CD163 +MRC1 |C1QA |C1QB |C1QC |TYROBP
+definition: +CD163 +MRC1 |APOE |C1QA |C1QB |C1QC |TYROBP
 go: 
 shogoin: 
 uberon: 

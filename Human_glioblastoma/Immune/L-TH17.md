@@ -1,6 +1,6 @@
 name: T Regulatory
 abbreviation: L-TH17
-definition: |IL17A |IL17B |IL17C |IL17D |IL17F
+definition: +IL17F |IL17A |IL17B |IL17C |IL17D
 go: 
 shogoin: 
 uberon: 

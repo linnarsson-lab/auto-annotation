@@ -1,6 +1,6 @@
 name: T Lymphocytes
 abbreviation: L-TLYM
-definition: |CD3D |CD3E +CD3G +GZMH |IL2RB |PRF1
+definition: +CD3G +GZMH |CD3D |CD3E |IL2RB |PRF1
 go: 
 shogoin: 
 uberon: 
