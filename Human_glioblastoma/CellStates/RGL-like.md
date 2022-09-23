@@ -1,6 +1,6 @@
 name: Radial Glia-like
 abbreviation: RGL-like
-definition: +SOX2 +HES1
+definition: +SOX2 +ASCL1
 go: 
 shogoin: 
 uberon: 

@@ -1,6 +1,6 @@
 name: Astrocyte-like
 abbreviation: AST-like
-definition: +AQP4 +CLU +HOPX +EGFR +CRYAB
+definition: +AQP4 |CLU |HOPX |EGFR |CRYAB
 go: 
 shogoin: 
 uberon: 

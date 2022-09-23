@@ -1,6 +1,6 @@
 name: Neural Progenitor Cell-like
 abbreviation: NPC-like
-definition: +HES1 |CDK4 |NFIB |HES6 |EN1
+definition: +NFIB +STMN3 |DLX5 |CDK4 |HES6 |EN1 |NF1
 go: 
 shogoin: 
 uberon: 
