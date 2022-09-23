@@ -1,6 +1,6 @@
 name: Astrocytes
 abbreviation: AST
-definition: +GFAP |GJA1 |AQP4 -EGFR
+definition: +AQP4 |GJA1 -EGFR
 go: 
 shogoin: 
 uberon: 
@@ -8,4 +8,6 @@ categories: Astrocytes Non-neoplastic
 version: 1 
 synonyms:
 ---
+
+# Not using +GFAP because it tends to be everywhere
 

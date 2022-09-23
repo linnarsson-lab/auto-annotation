@@ -1,6 +1,6 @@
 name: Oligodendrocytes
 abbreviation: OL
-definition: +MBP +PLP1 +MOG
+definition: +PLP1 |MOG |MBP 
 go: 
 shogoin: 
 uberon: 
