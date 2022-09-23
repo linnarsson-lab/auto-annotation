@@ -1,6 +1,6 @@
-name: Cortical layer 5 excitatory neuron
-abbreviation: L5-ET
-definition: +FEZF2 +BCL11B +POU3F1 +TXK -FOXP2
+name: Cortical layer 6 CT excitatory neuron
+abbreviation: L6-CT
+definition: +FEZF2 +SYT6 +FOXP2
 go:
 shogoin: 
 uberon: 
