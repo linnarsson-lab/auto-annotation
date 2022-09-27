@@ -1,6 +1,6 @@
 name: Tumor associated Macrophages Blood-Derived Macrophages
 abbreviation: TAM-BDM MEShi
-definition: +CD74 +C1QA +C1QB +GPNMB
+definition: +CD74 |C1QA |C1QB |GPNMB
 go: 
 shogoin: 
 uberon: 
