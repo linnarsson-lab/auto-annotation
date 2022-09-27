@@ -1,6 +1,6 @@
 name: Mesenchymal-like Hypoxia Independent
 abbreviation: MEShi-Like
-definition: +VIM +VEGFA +ANXA1 +ANXA2 +FN1 +TNC +TAGLN |MT1X |IGFBP5
+definition: +VIM +FN1 |MT1X |IGFBP5 |VEGFA |ANXA1 |ANXA2 |TNC TAGLN
 go: 
 shogoin: 
 uberon: 

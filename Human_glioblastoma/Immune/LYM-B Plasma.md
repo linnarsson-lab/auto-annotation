@@ -1,6 +1,6 @@
-name: T Regulatory
-abbreviation: L-TREG
-definition: +FOXP3 +CTLA4 |IRF4 |BATF |TNFRSF18 |TOX2 
+name: B-Plasma
+abbreviation: LYM-B Plasma
+definition: +IGHM |IGKC
 go: 
 shogoin: 
 uberon: 
