@@ -1,6 +1,6 @@
 name: B-Plasma
 abbreviation: LYM-B Plasma
-definition: +IGHM |MS4A1
+definition: +IGHM |MS4A1 |IGKC
 go: 
 shogoin: 
 uberon: 
