@@ -1,6 +1,6 @@
 name: Natural Killer Cells
 abbreviation: LYM-NK
-definition: +CD74 +GNLY -CD3G |GZMB |HOPX
+definition: +CD74 -CD3G -CD3E |GNLY |GZMA |GZMB |HOPX
 go: 
 shogoin: 
 uberon: 
