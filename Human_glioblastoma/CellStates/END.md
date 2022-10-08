@@ -1,6 +1,6 @@
 name: Endothelial
 abbreviation: END
-definition: +FLT1 |MECOM
+definition: +CLDN5
 go: 
 shogoin: 
 uberon: 

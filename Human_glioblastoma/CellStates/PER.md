@@ -1,6 +1,6 @@
 name: Pericytes
 abbreviation: PER
-definition: +ACTA2 |DCN |COL1A1 |TAGLN 
+definition: +COL1A1
 go: 
 shogoin: 
 uberon: 
