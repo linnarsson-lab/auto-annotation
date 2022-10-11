@@ -1,6 +1,6 @@
 name: Tumor associated Macrophages Microglia
 abbreviation: TAM-MG
-definition: +CD74 |C1QA |C1QB |AIF1
+definition: +SPP1 |C1QA |C1QB |CD74
 go: 
 shogoin: 
 uberon: 
