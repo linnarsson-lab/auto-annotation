@@ -1,6 +1,6 @@
 name: Tumor associated Macrophages Microglia
 abbreviation: TAM-MG
-definition: +SPP1 |C1QA |C1QB |CD74
+definition: +CD74 |C1QA |C1QB |C1QC |AIF1
 go: 
 shogoin: 
 uberon: 
@@ -8,7 +8,7 @@ categories: Myeloid
 version: 1 
 synonyms:
 ---
-+CD163 +MRC1 |APOE |C1QA |C1QB |C1QC |TYROBP
++CD163 +MRC1 |APOE |C1QA |C1QB |C1QC |TYROBP #|SPP1
 
 +APOE +S100A11 +CD163
 [https://doi.org/10.1038/s43018-021-00201-z] Friedrich, M., Sankowski, R., Bunse, L. et al. Tryptophan metabolism drives dynamic immunosuppressive myeloid states in IDH-mutant gliomas. Nat Cancer 2, 723–740 (2021). 

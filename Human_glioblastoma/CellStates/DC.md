@@ -1,6 +1,6 @@
 name: Dendritic Cell
 abbreviation: DC
-definition: +CD74 +HLA-DPB1 |LYZ |PTGDS
+definition: +CD74 |HLA-DPB1 |HLA-DQB1 |HLA-DRA
 go: 
 shogoin: 
 uberon: 
