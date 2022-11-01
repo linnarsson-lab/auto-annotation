@@ -1,6 +1,6 @@
 name: Dendritic Cell
 abbreviation: DC
-definition: +CD74 |HLA-DPB1 |HLA-DQB1 |HLA-DRA
+definition: +CD74 |HLA-DPB1 |HLA-DQB1 |HLA-DRA |CCL22 |CCDC50
 go: 
 shogoin: 
 uberon: 
@@ -9,6 +9,8 @@ version: 1
 synonyms:
 ---
 GBmap
-DC3 -> PTGDS (GBmap)
+DC3 -> PTGDS CCDC50 (GBmap)
+DC2 -> CCL22
+DC1 -> XCR1
 
 +HLA-DPB1 is also in TAM-BDM and TAM-MG, but seems highly expressed in DCs.
