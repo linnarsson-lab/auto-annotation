@@ -1,6 +1,6 @@
 name: Mesenchymal-like
 abbreviation: MES-Like
-definition: +IGFBP5 |VEGFA |COL1A1 |COL3A1 |COL4A1
+definition: +IGFBP5 |VEGFA |COL1A1 |COL3A1 |COL4A1 |NRN1
 go: 
 shogoin: 
 uberon: 
