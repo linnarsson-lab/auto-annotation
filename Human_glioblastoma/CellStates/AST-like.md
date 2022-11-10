@@ -1,6 +1,6 @@
 name: Astrocyte-like
-abbreviation: AST-like
-definition: +EGFR |NES |AQP4 |HOPX |CRYAB |FABP7
+abbreviation: AST-like EGFR
+definition: +EGFR |NES |AQP4 |HOPX |CRYAB |FABP7 |VIM
 go: 
 shogoin: 
 uberon: 

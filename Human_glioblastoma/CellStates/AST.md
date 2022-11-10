@@ -1,6 +1,6 @@
 name: Astrocytes
 abbreviation: AST
-definition: +AQP4 |CRYAB |PTN |GJA1 -EGFR
+definition: +AQP4 |GCK |CRYAB |PTN |GJA1 |EGFR
 go: 
 shogoin: 
 uberon: 
