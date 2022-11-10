@@ -1,6 +1,6 @@
 name: Erythrocytes
 abbreviation: RBC
-definition: +HBB
+definition: +HBB +HBA2
 go: 
 shogoin: 
 uberon: 

@@ -1,6 +1,6 @@
 name: Endothelial
 abbreviation: END
-definition: +CLDN5
+definition: +CLDN5 |FLT1 |MECOM |PECAM1 |FN1 |IGFBP7
 go: 
 shogoin: 
 uberon: 
