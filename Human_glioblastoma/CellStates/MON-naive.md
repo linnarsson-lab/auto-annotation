@@ -1,6 +1,6 @@
 name: Monocytes Naive
 abbreviation: MON
-definition: +CD74 |S100A8 |S100A9 |S100A4 |CXCL2 |VCAN
+definition: +SPP1 |S100A8 |S100A9 |S100A4 |CXCL2 |VCAN
 go: 
 shogoin: 
 uberon: 
