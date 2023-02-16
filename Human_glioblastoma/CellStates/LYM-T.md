@@ -1,6 +1,6 @@
 name: Lymphocytes T
 abbreviation: LYM-T
-definition: +CD74 |CD3G |CD27 |CD3E |GZMH |GZMK |GZMA -GNLY
+definition: +CD3G |CD74 |CD27 |CD3E |GZMH |GZMK |GZMA -GNLY
 go: 
 shogoin: 
 uberon: 
