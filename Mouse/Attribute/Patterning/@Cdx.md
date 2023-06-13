@@ -1,5 +1,5 @@
 name: Caudal Type Homeobox
-abbreviation: @Cdx
+abbreviation: "@Cdx"
 definition: +Cdx4 +Cdx1 +Cdx2
 go:
 shogoin: 

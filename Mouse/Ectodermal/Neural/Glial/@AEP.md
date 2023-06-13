@@ -1,5 +1,5 @@
 name: Astroependymal
-abbreviation: @AEP
+abbreviation: "@AEP"
 definition: +Aqp4 +Gja1
 go:
 shogoin: 

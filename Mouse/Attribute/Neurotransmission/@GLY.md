@@ -1,5 +1,5 @@
 name: Glycinergic
-abbreviation: @GLY
+abbreviation: "@GLY"
 definition: +Slc32a1 +Slc6a5
 categories: Ectodermal Neuronal Neuroectodermal
 version: 1

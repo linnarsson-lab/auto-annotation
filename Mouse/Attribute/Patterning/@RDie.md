@@ -1,5 +1,5 @@
 name: Rostral Diencephalon
-abbreviation: @RDie
+abbreviation: "@RDie"
 definition: +Atoh1 +Barhl1
 go:
 shogoin: 

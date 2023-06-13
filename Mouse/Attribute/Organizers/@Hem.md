@@ -1,5 +1,5 @@
 name: Cortical Hem
-abbreviation: @Hem
+abbreviation: "@Hem"
 definition: +Lhx5 +Wnt8b +Bmp7
 go:
 shogoin: 

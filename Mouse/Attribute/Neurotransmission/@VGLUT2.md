@@ -1,5 +1,5 @@
 name: Glutamatergic 2
-abbreviation: @VGLUT2
+abbreviation: "@VGLUT2"
 definition: +Slc17a6
 go:
 shogoin: 

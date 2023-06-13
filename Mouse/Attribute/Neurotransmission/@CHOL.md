@@ -1,5 +1,5 @@
 name: Cholinergic
-abbreviation: @CHOL
+abbreviation: "@CHOL"
 definition: +Chat +Slc5a7
 categories: Ectodermal Neuronal Neuroectodermal
 version: 1

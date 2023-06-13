@@ -1,7 +1,8 @@
 name: Pro-melanin concentrating hormone 
-abbreviation: @PMCH 
+abbreviation: "@PMCH"
 definition: +Pmch +Slc32a1 
-categories: Ectodermal Neuronal Neuroectodermal version: 1
+categories: Ectodermal Neuronal Neuroectodermal
+version: 1
 ---
 
 Cells releasing pro-melanin concentrating hormone

@@ -1,5 +1,5 @@
 name: Marginal MHB
-abbreviation: @MHBm
+abbreviation: "@MHBm"
 definition: +Wnt1 +Rspo1 -Emx1
 go:
 shogoin: 

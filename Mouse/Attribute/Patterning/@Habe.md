@@ -1,5 +1,5 @@
 name: Habenula and tissues around Pineal gland
-abbreviation: @Habe
+abbreviation: "@Habe"
 definition: +Tesc +Nwd2 +Cpne4 +Necab2
 go:
 shogoin: 

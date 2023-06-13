@@ -1,5 +1,5 @@
 name: Serotonergic
-abbreviation: @SER
+abbreviation: "@SER"
 definition: +Tph2 +Fev
 categories: Ectodermal Neuronal Neuroectodermal
 version: 1

@@ -1,5 +1,5 @@
 name: Early Neural Tube
-abbreviation: @EarlyNT
+abbreviation: "@EarlyNT"
 definition: +Lin28a +Ifitm1 +Sox2
 go:
 shogoin: 

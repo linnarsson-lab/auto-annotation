@@ -1,5 +1,5 @@
 name: Eye Field cells
-abbreviation: @Eye
+abbreviation: "@Eye"
 definition: +Lhx2 +Rax +Six3 +Pax6
 go:
 shogoin: 

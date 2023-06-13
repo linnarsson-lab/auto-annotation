@@ -1,5 +1,5 @@
 name: Noradrenergic
-abbreviation: @NOR
+abbreviation: "@NOR"
 definition: +Dbh +Ddc +Th
 categories: Ectodermal Neuronal Neuroectodermal
 version: 1

@@ -1,5 +1,5 @@
 name: Neural fold
-abbreviation: @NFold
+abbreviation: "@NFold"
 definition: +Wnt1 +Msx2 +Msx1
 go:
 shogoin: 

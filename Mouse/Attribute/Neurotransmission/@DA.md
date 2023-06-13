@@ -1,5 +1,5 @@
 name: Dopaminergic
-abbreviation: @DA
+abbreviation: "@DA"
 definition: +Th +Ddc +Slc6a3
 go: 0001963 (synaptic transmission, dopaminergic)
 shogoin: 

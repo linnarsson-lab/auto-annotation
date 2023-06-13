@@ -1,5 +1,5 @@
 name: Gonadotropin-releasing hormone
-abbreviation: @GNRH
+abbreviation: "@GNRH"
 definition: +Gnrh1
 categories: Ectodermal Neuronal Neuroectodermal
 version: 1

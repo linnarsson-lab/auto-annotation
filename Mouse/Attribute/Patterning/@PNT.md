@@ -1,5 +1,5 @@
 name: Posterior Neural Tube
-abbreviation: @PNT
+abbreviation: "@PNT"
 definition: +T +Gbx2 -Otx2
 go:
 shogoin: 
